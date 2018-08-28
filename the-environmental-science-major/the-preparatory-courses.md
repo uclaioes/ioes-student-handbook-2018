@@ -4,7 +4,7 @@ The preparatory courses for the Environmental Science major are typical for any 
 
 ## Introduction to Environmental Science {#introduction-to-environmental-science}
 
-_Required:_ Environment M10 _or_ Earth Planetary and Space Sciences 1.
+_Required:_ Environment 10
 
 Students may choose between Environment M10 – Introduction to Environmental Science, or Earth, Planetary, and Space Sciences 1 – Introduction to Earth Science. We strongly urge students to complete this requirement in the first or second year of study, or as soon as possible during junior year for transfer students.
 
