@@ -1,4 +1,4 @@
-# IoES Student Handbook
+# IoES Student Handbook version 2.0
 
 ## Getting your degree in Environmental Science at UCLA
 
