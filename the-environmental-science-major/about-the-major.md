@@ -6,21 +6,23 @@ The classroom portion of the degree is rooted in physical and life sciences, inc
 
 ## Interdisciplinary Major {#interdisciplinary-major}
 
-The study and practice of environmental science are by nature interdisciplinary pursuits, and the B.S. program draws on strong connections across numerous departments at UCLA that all touch on the environmental science field. At their core, environmental issues are human issues. Rooted in life and physical sciences, our curriculum also features multiple classes in social sciences and humanities—subjects such as public policy, politics, journalism, and environmental justice. This gives students a broad perspective and tools to take on today’s most complex, urgent environmental challenges. Students will take upper division courses in areas covering:
+The study and practice of environmental science are by nature interdisciplinary pursuits, and the B.S. program draws on strong connections across numerous departments at UCLA that all touch on the environmental science field. At their core, environmental issues are human issues. Rooted in life and physical sciences, our curriculum also features multiple classes in social sciences and humanities—subjects such as public policy, politics, journalism, and environmental justice. This gives students a broad perspective and tools to take on today’s most complex, urgent environmental challenges. Students will take upper division courses in areas covering the physical and life sciences from departments around campus such as:
 
-* Atmospheric and Water Science
-* Climate Science
-* Earth Science
-* Ecology and Conservation Biology
-* Environmental Management, and
-* Pollutant Sources, Treatment, Fate and Transport
+- Atmospheric and Oceanic Science
+- Geography
+- Earth Planetary and Space Sciences
+- Ecology and Evolutionary Biology
+- Civil and Environmental Engineering
+- Environmental Health Sciences
 
-In addition, students will take courses on the politics and policy of environmental issues, and on anthropogenic forces or human interactions with the environment in the areas of:
+And others…
 
-* Policy and Politics
-* Humans and the Environment
+In addition, students will take courses on the politics and policy of environmental issues, and
+on anthropogenic forces or human interactions with the environment, primarily through courses offered by the IoES but also from Geography, Public Policy, Urban Planning, English, Philosophy, and others. 
+Students also participate in a 1-unit Sustainability Talks series that bring
+faculty from within the UCLA community and experts from outside organizations and
+government agencies to present on topics relevant to sustainability and environmental science.
 
-Students also participate in a 1-unit Environmental Science Colloquium series that bring faculty from within the UCLA community and experts from outside organizations and government agencies to present on topics relevant to environmental science.
 
 ## Minors {#minors}
 
