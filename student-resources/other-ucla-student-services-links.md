@@ -1,0 +1,31 @@
+# Other UCLA Student Services Links
+
+[**MyUCLA Student Services Directory**](https://my.ucla.edu/studentservices.aspx):
+
+1. [ADA/504 Compliance Office](http://www.ada.ucla.edu/)
+2. [Arthur Ashe Student Health & Wellness Center](http://www.studenthealth.ucla.edu/)
+3. [Bruin Resource Center](http://www.brc.ucla.edu/)
+4. [Career Center](http://www.career.ucla.edu/)
+5. [Center for Accessible Education](http://www.cae.ucla.edu/)
+6. [Community Programs Office](http://www.communityprograms.ucla.edu/)
+7. [Counseling and Psychological Services](http://www.counseling.ucla.edu/)
+8. [Dashew Center for International Students & Scholars](http://www.internationalcenter.ucla.edu/)
+9. [Dean of Student Offices](http://www.deanofstudents.ucla.edu/)
+10. [Emergency Preparedness](http://emergency.studentaffairs.ucla.edu)
+11. [First Year Experience](http://www.studentexperience.ucla.edu/)
+12. [Office of Fraternity and Sorority Life](http://www.greeklife.ucla.edu/)
+13. [Global Citizens Fellowship](http://globalcitizens.studentaffairs.ucla.edu)
+14. [Graduate Student Resource Center](http://gsrc.ucla.edu/)
+15. [Lesbian Gay Bisexual & Transgender Campus Resource Center](http://www.lgbt.ucla.edu/)
+16. [Office Technology Center](http://otc.ucla.edu)
+17. [Parent and Family Program](http://parents.ucla.edu/)
+18. [Recreation](http://www.recreation.ucla.edu/)
+19. [Registrar's Office](http://www.registrar.ucla.edu/)
+20. [Residential Life](http://www.orl.ucla.edu/)
+21. [Silk Road to the Future](http://www.silkroad.ucla.edu/)
+22. [Student Affairs Information & Research Office](http://www.sairo.ucla.edu/)
+23. [Student Affairs Information Technology](http://dnn.uclanet.ucla.edu/sait/)
+24. [Student Legal Services](http://www.studentlegal.ucla.edu/)
+25. [Student Loan Services and Collections](http://www.loans.ucla.edu/)
+26. [Student Organizations, Leadership & Engagement](http://www.sole.ucla.edu/)
+

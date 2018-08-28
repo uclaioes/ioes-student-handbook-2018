@@ -1,0 +1,41 @@
+:root {
+  --color-brand-navy: #132f54;
+  --color-brand-cobalt: #1e4b87;
+  --color-brand-blue: #2f75d3;
+  --color-ucla-blue: #4984ba;
+  --color-brand-yellow: #ffa600;
+  --color-brand-ltYellow: #ffb300;
+  --color-brand-green: #357743;
+  --color-brand-charteuse: #7fff00;
+  --color-black: #000;
+  --color-neutral-black: #333333;
+  --color-neutral-darkGrey: #666666;
+  --color-neutral-warmGrey: #a1a1a1;
+  --color-neutral-lightGrey: #dcdcdc;
+  --color-neutral-whiteGrey: #f6f6f6;
+  --color-neutral-greyBlue: #eaedf0;
+  
+}
+
+h1 {
+  color: var(--color-brand-cobalt);
+}
+
+h2 {
+  color: var(--color-brand-navy);
+}
+
+h3 {
+  color: var(--color-brand-blue);
+  font-weight: 400;
+}
+
+h4 {
+  color: var(--black);
+  text-transform: uppercase;
+  font-size: 90%;
+}
+
+small {
+  font-size: 80% !important;
+}
