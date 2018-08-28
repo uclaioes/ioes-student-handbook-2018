@@ -18,11 +18,9 @@ The study and practice of environmental science are by nature interdisciplinary 
 And others…
 
 In addition, students will take courses on the politics and policy of environmental issues, and
-on anthropogenic forces or human interactions with the environment, primarily through courses offered by the IoES but also from Geography, Public Policy, Urban Planning, English, Philosophy, and others. 
-Students also participate in a 1-unit Sustainability Talks series that bring
-faculty from within the UCLA community and experts from outside organizations and
-government agencies to present on topics relevant to sustainability and environmental science.
+on anthropogenic forces or human interactions with the environment, primarily through courses offered by the IoES but also from Geography, Public Policy, Urban Planning, English, Philosophy, and others.
 
+Students also participate in a 1-unit Sustainability Talks series that brings faculty from within the UCLA community and experts from outside organizations and government agencies to present on topics relevant to sustainability and environmental science.
 
 ## Minors {#minors}
 
