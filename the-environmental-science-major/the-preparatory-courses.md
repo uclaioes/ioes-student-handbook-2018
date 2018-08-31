@@ -2,13 +2,15 @@
 
 The preparatory courses for the Environmental Science major are typical for any bachelor’s of science program. The major requires 13 total prep courses. We recommend that students entering UCLA as freshmen take two prep courses each quarter until all 13 are completed, which will satisfy all of the prep requirements by the end of the second year of study.
 
-## Introduction to Environmental Science {#introduction-to-environmental-science}
+## Introduction to Environmental Science and Geographic Information Systems {#introduction-to-environmental-science}
 
-_Required:_ Environment 10
+_Required:_ Environment 10 and Geography 7
 
-Students may choose between Environment M10 – Introduction to Environmental Science, or Earth, Planetary, and Space Sciences 1 – Introduction to Earth Science. We strongly urge students to complete this requirement in the first or second year of study, or as soon as possible during junior year for transfer students.
+Students must take Environment 10 – Introduction to Environmental Science. Ideally students will complete this requirement in the first or second year of study, or during junior year for transfer students.
 
-For the majority of students, we recommend Environment M10. M10 covers earth science, atmospheric science, oceanography, and some conservation, policy, and other environmental issues. It is usually offered only in fall quarter. However, students who complete the GE Cluster M1 series \(Food: Lens for Environment and Sustainability\) may find the course slightly redundant, and for those students or for those with a strong interest in the Earth Sciences, the EPSS 1 course, which focuses more on geology and oceanography, may be a suitable alternate.
+Environment 10 covers earth science, atmospheric science, oceanography, ecology and conservation, policy and regulation, and other environmental issues. It will usually be offered in winter quarter.
+
+All Environmental Science majors will also take Geography 7. Learning the computer mapping technologies of GIS will not only provide background for an incredibly marketable skill, but students should expect to see an increased emphasis on GIS related projects in upper-division courses for the major and certainly a more sophisticated use of GIS during the senior Practicum projects. 
 
 ### AP Credit {#ap-credit}
 
@@ -16,25 +18,30 @@ No AP credit equivalent to either course.
 
 ### Introduction to Environmental Science Course Descriptions {#introduction-to-environmental-science-course-descriptions}
 
-_**Environment M10. Introduction to Environmental Science**_**.** \(4\) \(Same as Atmospheric and Oceanic Sciences M10.\) Lecture, three hours; laboratory, one hour. Limited to undergraduate students. Introduction to environmental science as discipline and as a way of thinking. Discussion of critical environmental issues at local and global scales. Fundamentals of physical, chemical, and biological processes important to environmental science. Laboratory exercises to augment lectures. Letter grading.
+_**Environment 10. Introduction to Environmental Science**_**.** \(4\) \Lecture, three hours; laboratory, one hour. Limited to undergraduate students. Introduction to environmental science as discipline and as a way of thinking. Discussion of critical environmental issues at local and global scales. Fundamentals of physical, chemical, and biological processes important to environmental science. Laboratory exercises to augment lectures. Letter grading.
 
-_**Earth, Planetary, and Space Sciences 1. Introduction to Earth Science**. _\(5\) Lecture, three hours; laboratory, two hours; field days. Not open to students with credit for or currently enrolled in course 100 or former courses 1F and 1H. Elements of Earth science; study of Earth materials; nature and interpretation of geologic evidence; study of geologic processes; historical aspects of geology. Mandatory field trips introduce students to solving of geologic problems in field. P/NP or letter grading.
+### Introduction to Geographic Information Systems {#introduction-to-geographic-information-systems}
+
+_**Geography 7: Introduction to Geographic Information Systems**_**.**\(5\) \Lecture, three hours; laboratory, two hours. Designed for freshmen/sophomores. Introduction to fundamental principles and concepts necessary to carry out sound geographic analysis with geographic information systems (GIS). Reinforcement of key issues in GIS, such as geographic coordinate systems, map projections, spatial analysis, and visualization of spatial data. Laboratory exercises use database query, manipulation, and spatial analysis to address real-world problems. P/NP or letter grading.
+**Fulfills one Social Analysis GE requirement**
+
 
 ## Mathematics \(Calculus\) {#mathematics-calculus}
 
-_Required:_ Math 31A and 31B _or_ Math 3A and 3B.
+_Required:_ Math 31A and 31B _or_ Math 3A and 3B _or_ Life Science 30A and 30B.
 
 _Additional courses, depending on minor/concentration:_ Math 32A _or_ 3C.
 
-The major requires that all students take either Math 31A and 31B or Math 3A and 3B. Math 32A or 3C is required for the Atmospheric and Oceanic Sciences, Environmental Engineering, and Earth and Environmental Science concentrations, and is an option for the Environmental Systems and Society and the Geography/Environmental Studies concentrations.
+The major requires that all students take either Math 31A and 31B or Math 3A and 3B or Life Science 30A and 30B. Math 32A or 3C is required for the Environmental Engineering concentration, and is an option for Atmospheric and Oceanic Sciences, Earth and Environmental Science, Environmental Systems and Society, and the Geography/Environmental Studies concentrations.
 
-Math is fundamental to the study of all other science core courses; as such it is recommended that students enroll in the Math courses among the earliest prep courses taken. The two series – 31 and 3 – are similar, but students who do not feel especially strong in calculus may prefer the 3-series.
+Math is fundamental to the study of all other science core courses; as such it is recommended that students enroll in the Math courses among the earliest prep courses taken. The two series – 31 and 3 – are similar, but students who do not feel especially strong in calculus may prefer the 3-series. Alternatively, the Life Sciences Division has created a math series as another option that they feel provides a mathematics background appropriate for students in the Division’s majors, which emphasizes the application of math skills and computational models. It is important for students to be aware that taking the LS 30A/B
+courses will foreclose the ability to pursue the Environmental Engineering concentration, but all other minor/concentration options are still available. This is because the Math Department does not allow students taking LS 30A/B to then take either Math 3C or 32A.
 
 ### Switching Math Series {#switching-math-series}
 
-Students may currently move between the math series courses. For example, if a student took Math 31A, they can then enroll in Math 3B to complete the series. If the student took Math 3B, they may enroll in Math 32A. There are some disadvantages to switching series, primarily due to the order in which the material is taught, so students who switch should be prepared for additional challenge.
+Students may currently move between the Math department’s series courses. For example, if a student took Math 31A, they can then enroll in Math 3B to complete the series. If the student took Math 3B, they may enroll in Math 32A. There are some disadvantages to switching series, primarily due to the order in which the material is taught, so students who switch should be prepared for additional challenge.
 
-Note that there have been changes proposed for the Math 3ABC series that may change the ability of students to switch between series. We will make every attempt to notify students if or when these changes take effect.
+Note that there have been changes proposed for the Math 3ABC series that may change the ability of students to switch between series. We will make every attempt to notify students if or when these changes take effect. Students cannot switch from LS 30A to Math 3B or 31B; students who have taken the LS 30 courses who wish to then take calculus (Math 3 or 31 series) will have to start those from the beginning.
 
 ### Math & Environmental Engineering {#math-environmental-engineering}
 
@@ -43,10 +50,6 @@ Students interested in pursuing the Environmental Engineering concentration are 
 ### AP Credit {#ap-credit-0}
 
 Students who earned a 5 score on the Calculus AB exam will have earned credit for Math 31A. Students who earned a score of 5 on the BC exam will have credit for Math 31A and 31B, while a score of 4 earns Math 31A credit.
-
-### Life Science 30A and 30B {#life-science-30a-and-30b}
-
-The Life Sciences Division has created an alternate math series as another option that they feel provides a mathematics background appropriate for students in the Division’s majors. These courses have not been approved for the Environmental Science major as an official component of the major. However, students who have completed these courses prior to enrolling in the ES major, or who strongly feel that these courses will be of greater benefit than the traditional calculus courses, are permitted to take these two courses in lieu of the Math series above. It is very important for students to be aware that taking the LS 30A/B courses will limit their choice of minor/concentration. Students taking LS 30A/B will not be permitted to pursue the Atmospheric and Oceanic Sciences, Environmental Engineering, or Earth and Environmental Science minors/concentrations \(unless the student also takes the calculus series\). Additionally, the Math Department does not allow students taking LS 30A/B to then take either Math 3C or 32A.
 
 ### Mathematics Course Descriptions {#mathematics-course-descriptions}
 
@@ -102,27 +105,15 @@ _**30A. Organic Chemistry I: Structure and Reactivity.**_ \(4\) Lecture, three h
 
 ## Life Science {#life-science}
 
-_Students admitted 16F or earlier:_
-
-_Required_: Life Sciences 1 _and_ 2
-
-_Additional courses, depending on minor/concentration:_ Life Sciences 3 _and_ 23L
-
-_Students admitted 17F or after:_
-
 _Required:_ Life Sciences 7A _and_ 7B
 
 _Additional courses, depending on minor/concentration_: Life Science 7C _and_ 23L.
 
-Otherwise known as “Biology,” Life Sciences at UCLA is divided in a rather unique way when compared to the offerings at many other universities. Because of this, students should consult with the IoES SAO or the Life Sciences Core Office \(lscore@lifesci.ucla.edu\) prior to enrolling in any courses at any other institution intended to substitute for the UCLA courses.
-
-### Life Science 1 / 2 or 7A / 7B? {#life-science-1-2-or-7a-7b}
-
-Environmental Science majors have historically been required to take Life Sciences \(LS\) 1 and 2, with students wishing to pursue the Conservation Biology or Environmental Health concentrations required to also take LS 3 and 23L. However, the Life Sciences Division recently introduced a new series that is set to replace the LS 1-4 series: the 7A/B/C series. Students who entered UCLA in fall of 2016 or earlier have the choice to complete either series. If the LS 1-2-3 series was started in the 2016-17 academic year, it should be completed by the end of the 2017-18 academic year, as this series of courses will be discontinued. Any student admitted fall 2017 or later, or any student who has not yet begun the series before fall 2017, should take the LS 7A/B/C series.
+Otherwise known as biology, Life Sciences at UCLA is divided into three discrete courses focusing on particular aspects of biological science. Because of the division of courses imposed by the quarter system, students should consult with the IoES SAO or the Life Sciences Core Office \(lscore@lifesci.ucla.edu\) prior to enrolling in any courses at any other institution intended to substitute for the UCLA courses.
 
 ### Who takes Life Science 23L? {#who-takes-life-science-23l}
 
-Students wishing to pursue the Conservation Biology or Environmental Health concentrations must take LS 3 and 23L or LS 7C and 23L. 23L is the lab component previously included with LS 2 and LS 3. This 2 unit lab course is best taken concurrently with LS 3 or 7C. All students wishing to take LS 3 will need to take Chem 14C or 30A since completing it is a prerequisite for enrolling in LS 3.
+Students wishing to pursue the Conservation Biology may choose to take LS 7C and 23L. It is also an option for students pursuing Environmental Systems and Society or Geography/Environmental Studies. 23L is the lab component previously included with LS 2 and LS 3 before the series changed. This lab course is best taken concurrently with 7C.
 
 ### AP Credit {#ap-credit-2}
 
@@ -130,29 +121,23 @@ We do not recognize any AP credit as equivalent to any of the Life Science serie
 
 ### Life Science Course Descriptions {#life-science-course-descriptions}
 
-_**1. Evolution, Ecology, and Biodiversity.**_\(5\) Lecture, three hours; laboratory, two hours; one field trip. Introduction to principles and mechanisms of evolution by natural selection; population, behavioral, and community ecology; and biodiversity, including major taxa and their evolutionary, ecological, and physiological relationships. P/NP or letter grading.
-
-_**2. Cells, Tissues, and Organs.**_** **\(4\) Lecture, three hours; discussion, 75 minutes. Enforced requisite: Chemistry 14A or 20A. Introduction to basic principles of cell structure, organization of cells into tissues and organs, and principles of organ systems. Letter grading.
-
-_**3. Introduction to Molecular Biology.**_\(4\) Lecture, three hours; discussion, 75 minutes. Enforced requisites: course 2, and Chemistry 14C or 30A. Corequisite: course 23L \(students must take 23L concurrently with course 3 if they do not plan to take course 4\). Introduction to basic principles of biochemistry and molecular biology. Letter grading.
-
-_**23L. Introduction to Laboratory and Scientific Methodology**._ \(2\) Laboratory, three hours; discussion, one hour. Enforced requisite: course 2. Must be taken concurrently with either course 3 or 4. Introductory life sciences laboratory designed for undergraduate students. Opportunity to conduct wet-laboratory cutting-edge bioinformatics laboratory experiments. Students work in groups of three conducting experiments in areas of physiology, metabolism, cell biology, molecular biology, genotyping, and bioinformatics. Letter grading.
-
 _**7A. Cell and Molecular Biology.**_ \(5\) Lecture, three hours; discussion, 75 minutes. Introduction to basic principles of cell structure and cell biology, biochemistry, and molecular biology. P/NP or letter grading.
 
 _**7B. Genetics, Evolution, and Ecology.**_ \(5\) Lecture, three hours; discussion, 110 minutes. Enforced requisite: course 7A. Principles of Mendelian inheritance and population genetics. Introduction to principles and mechanisms of evolution by natural selection, population, behavioral, and community ecology, and biodiversity, including major taxa and their evolutionary, ecological, and physiological relationships. Letter grading.
 
 _**7C. Physiology and Human Biology.**_ \(4\) Lecture, three hours; discussion, 75 minutes. Enforced requisite: course 7B. Organization of cells into tissues and organs and principles of physiology of organ systems. Introduction to human genetics and genomics. Letter grading.
 
+_**23L. Introduction to Laboratory and Scientific Methodology**._ \(2\) Laboratory, three hours; discussion, one hour. Enforced requisite: course 2. Must be taken concurrently with either course 3 or 4. Introductory life sciences laboratory designed for undergraduate students. Opportunity to conduct wet-laboratory cutting-edge bioinformatics laboratory experiments. Students work in groups of three conducting experiments in areas of physiology, metabolism, cell biology, molecular biology, genotyping, and bioinformatics. Letter grading.
+
 ## Statistics {#statistics}
 
-_Required_: Statistics 12 _or_ 13
+_Required_: Statistics 12 _or_ 13 _or_ Life Science 40
 
 Statistical analysis is ubiquitous in environmental science, and as such, a course in statistics is required of all Environmental Science majors. The purpose of statistics is to design, construct, and evaluate techniques for analyzing data. The data can be qualitative or quantitative, self-reported or machine-collected, and the motivations can be scientific, commercial, legal, or policy driven.
 
-The two recommended Statistics courses are largely similar; both will provide a background that is appropriate for the types of analysis students will undertake in the major. Statistics 12 is also a Social Analysis GE, while Statistics 13 is not a GE. On the other hand, 12 is a smaller class and is usually offered only once a year, so it is typically easier to enroll in 13.
+The recommended Statistics courses are largely similar and will provide a background that is appropriate for the types of analysis students will undertake in the major. Statistics 12 is also a Social Analysis GE, while the other options are not. While Stats 12 is also usually a smaller class, it is offered only once a year, so it is typically easier to enroll in Stats 13 or LS 40.
 
-Students who are planning to double major or take a minor that requires a different statistics course should consult with the IoES SAO prior to enrolling in any other statistics course. Usually we can accommodate such requirements as a substitution, particularly when the other department has a strict requirement, such as the Economics and Psychology departments. Transfer students who have already taken a lower-division statistics course must inform the IoES SAO so that credit can be applied. All other students must submit a substitution request to the IoES SAO prior to enrolling in any Statistics course other than 12 or 13.
+Students who are planning to double major or take a minor that requires a different statistics course should consult with the IoES SAO prior to enrolling in any other statistics course. Usually we can accommodate such requirements as a substitution, particularly when the other department has a strict requirement, such as the Economics and Psychology departments. Transfer students who have already taken a lower-division statistics course must inform the IoES SAO so that credit can be applied. All other students must submit a substitution request to the IoES SAO prior to enrolling in any Statistics course other than Stats 12 or 13 or LS 40.
 
 ### AP Credit {#ap-credit-3}
 
@@ -161,18 +146,13 @@ We do not recognize any AP credit as equivalent to either Statistics course or t
 ### Statistics Course Descriptions {#statistics-course-descriptions}
 
 _**12. Introduction to Statistical Methods for Geography and Environmental Studies.**_\(5\) Lecture, four hours; discussion, one hour; laboratory, one hour. Not open for credit to students with credit for course 10, 11, or 13. Introduction to statistical thinking and understanding, with emphasis on techniques used in geography and environmental science. Underlying logic behind statistical procedures, role of variation in statistical thinking, strengths and limitations of statistical summaries, and fundamental inferential tools. Emphasis on applications in geography and environmental science in laboratory work using professional statistical analysis package, including spatial statistics. P/NP or letter grading.
+**Fulfills one Social Analysis GE requirement**
 
-_**13. Introduction to Statistical Methods for Life and Health Sciences.**_** **\(5\) Lecture, three hours; discussion, one hour; laboratory, one hour. Not open for credit to students with credit for course 10, 10H, 11, 12, or 14. Presentation and interpretation of data, descriptive statistics, introduction to correlation and regression and to basic statistical inference \(estimation, testing of means and proportions, ANOVA\) using both bootstrap methods and parametric models. P/NP or letter grading.
+_**13. Introduction to Statistical Methods for Life and Health Sciences.**_**.**\(5\) Lecture, three hours; discussion, one hour; laboratory, one hour. Not open for credit to students with credit for course 10, 10H, 11, 12, or 14. Presentation and interpretation of data, descriptive statistics, introduction to correlation and regression and to basic statistical inference \(estimation, testing of means and proportions, ANOVA\) using both bootstrap methods and parametric models. P/NP or letter grading.
+
+_**Life Science 40. Statistics for Life Sciences.**_**.**\(5\) Lecture, three hours; laboratory, two hours. Designed for life sciences students. Introduction to statistics with emphasis on computer simulation of chance probabilities as replacement for traditional formula-based approach. Simulations allow for deeper understanding of statistical concepts, and are applicable to wider class of distributions and estimators. Students learn simple programming language to carry out statistical simulations, and apply them to classic problems of elementary statistics. Letter grading.
 
 ## Physics {#physics}
-
-Students admitted 16F or earlier:
-
-_Required:_ Physics 6A _and_ 6B, _or_ Physics 1A _and_ 1B
-
-_Additional courses, depending on minor/concentration_: Physics 6C _or_ 1C
-
-Students admitted 17F or later:
 
 _Required:_ Physics 5A _and_ 5C, _or_ Physics 1A _and_ 1B
 
@@ -180,11 +160,9 @@ _Additional courses, depending on minor/concentration_: Physics 5B _or_ 1C
 
 Physics is the study of the forces and laws of nature, from the largest galaxies to the tiniest subatomic particles. It's the most fundamental science, since the laws of nature determine everything else, forming the basis of chemistry and ultimately of biology, organisms, and ecosystems. It also encompasses electricity and magnetism. Advances in these and other areas of physics have made electric power, industry, electronic devices, and our modern standard of living possible.
 
-Students earn their foundation in Physics through the pursuit of one of the course series options. As with Life Sciences, one of these options has recently changed.
+Students earn their foundation in Physics through the pursuit of one of the course series options.
 
-### Physics 6A/B/C or 5A/C/B? {#physics-6a-b-c-or-5a-c-b}
-
-Prior to fall 2017, the Life Sciences Physics series was the 6A/B/C series. This series has been reorganized and renumbered starting in fall 2017 as the 5A/B/C series. Students who began the 6-series prior to 17F are encouraged to complete the required courses in the 17-18 academic year, as the series will be discontinued. Students who have not yet started the series should take the 5 series.
+### Physics 5A/C/B or 1A/1B/1C? {#physics-5a-c-b-or-1a-b-c}
 
 For most students in the Environmental Science major, we recommend the 5 \(formerly 6-\) series of Physics. It provides more context and connection for the biological sciences than the 1-series. For students pursuing the Atmospheric and Oceanic Sciences or Earth and Environmental Science minor/concentration, the third-quarter Physics course is recommended as additional preparation for the minor. It is especially useful for Atmospheric and Oceanic Sciences for the introduction to thermodynamics, which will be important in many upper-division Atmospheric and Oceanic Science courses.
 
@@ -195,12 +173,6 @@ While it is possible to switch between Physics series, it is not recommended.
 We do not recognize any AP credit as equivalent to any course in the Physics series.
 
 ### Physics Course Descriptions {#physics-course-descriptions}
-
-_**6A. Physics for Life Sciences Majors: Mechanics.**_ \(5\) Lecture, three hours; discussion, one hour; laboratory, two hours. Enforced requisites: Mathematics 3A, 3B. Enforced corequisite: Mathematics 3C. Not open for credit to students with credit for course 6AH. Motion, Newton laws, energy, linear and angular momentum, rotation, equilibrium, gravity, biological applications. P/NP or letter grading.
-
-_**6B. Physics for Life Sciences Majors: Waves, Electricity, and Magnetism.**_ \(5\) Lecture, three hours; discussion, one hour; laboratory, two hours. Enforced requisite: course 6A or 6AH. Not open for credit to students with credit for course 6BH. Mechanical waves, sound, electricity and magnetism, electromagnetic waves, biological applications. P/NP or letter grading.
-
-_**6C. Physics for Life Sciences Majors: Light, Fluids, Thermodynamics, Modern Physics**._ \(5\) Lecture, three hours; discussion, one hour; laboratory, two hours. Enforced requisite: course 6B. Not open for credit to students with credit for course 6CH. Geometrical and physical optics, fluid statics and dynamics, thermodynamics. Selected topics from foundations of quantum mechanics; atomics, nuclear and particle physics; relativity; medical detectors; biological applications. P/NP or letter grading.
 
 _**5A. Physics for Life Sciences Majors: Mechanics and Energy.**_** **\(5\) Lecture, three hours; discussion, one hour; laboratory, two hours. Requisites: Life Sciences 30A, 30B, or Mathematics 3A, 3B, 3C \(3C may be taken concurrently\). Statics and dynamics of forces, motion, energy, including thermal energy, with applications to biological and biochemical systems. P/NP or letter grading.
 
