@@ -1,31 +1,27 @@
 # Upper-Division Major Requirements
 
-Course requirements of the major are structured to provide intellectual breadth and introduce students to the key fields that exist under the umbrella of environmental science, and within each category, to provide course options from multiple departments to expose students to different disciplinary approaches.
+Course requirements of the major are structured to provide intellectual breadth and introduce students to the key fields that exist under the umbrella of environmental science, and to provide course options from multiple departments to expose
+students to different disciplinary approaches.
 
-We recommend that students use the major requirements to explore the various fields and disciplines available to them before choosing a concentration. Students are encouraged to take courses in the categories of greatest personal interest to them as early as possible.
+We recommend that students use the major requirements to explore the various fields and disciplines available to them before choosing a concentration. Students are encouraged to take courses of greatest personal interest to them as early as possible.
 
 The upper-division major requirements are divided into four sections:
 
-* Environmental Science \(6 categories\)
-  * Atmospheric and Water Science
-  * Climate Science
-  * Earth Science
-  * Ecology & Conservation Biology
-  * Environmental Management
-  * Pollutant Sources, Treatment, Fate and Transport
-* Social Science - Humanities \(2 categories\)
-  * Policy & Politics
-  * Humans and the Environment
-* Colloquium \(4 units\)
-* Practicum \(3 courses\)
+Physical and Life Sciences (5 courses) 
+Social Science and Humanities (3 courses)
+Sustainability Talks (2 units)
+Practicum (3 courses)
 
-The first two sections, Environmental Science and Social Science - Humanities, are composed primarily of lecture-style courses, although there are also lab and field courses amongst these. Students are required to take 8 courses across 8 different categories within these two sections. Details and course descriptions are listed below
+All upper-division courses in the Environmental Science major must be taken for a letter grade with the exception of the Sustainability Talks, which are P/NP graded. Students must earn a C average (2.0) or above in the upper-division requirements to graduate. 
 
-Students are required to take four Colloquium units from a set of course options that are designed to bring students in the major together and expose them to the myriad of possibilities for careers, research, engagement and involvement with environmental matters of all types through a lecture series. These courses are primarily one unit, P/NP graded and consist of a guest lecture.
+The first two sections are composed primarily of lecture-style courses, although there are also lab and field courses amongst these. Students are required to take 8 courses across these two sections. Details and course descriptions are listed below.
+
+Students are required to take two Sustainability Talks units from a set of course options that are designed to bring students in the major together and expose them to the myriad of possibilities for careers, research, engagement and involvement with environmental matters of all types through a lecture series. These courses are one unit, P/NP graded and consist of a guest lecture each week.
 
 The Senior Practicum is a year-long series that is the capstone to the major. The three courses are taken over fall, winter and spring quarters in the student’s final year.
 
 Note: Students do not need to complete the entirety of their prep courses prior to beginning upper-division major requirements. However, courses may have prerequisites or recommended requisites that students should complete or consider before enrolling.
+
 
 ## Course Options {#course-options}
 
@@ -47,35 +43,63 @@ Attach a syllabus if available, or include a course description or links to cour
 
 The most up-to-date version of the program plan is always available on the IoES website in the Current Students - Resources section: [https://www.ioes.ucla.edu/envisci/resources/](https://www.ioes.ucla.edu/envisci/resources/)
 
-## Environmental Science Requirements \(24-26 units\) {#environmental-science-requirements-24-26-units}
+## Physical and Life Science Requirements \(20-22 units\) {#science-requirements-24-26-units}
 
-Students choose one course from each category. No more than two courses can be from any one department. For multiple-listed courses, department is determined by how it is listed in the plan, not by the department under which the student enrolls.
+All students will take Environment 175 (recommended for 3rd year) and 4 additional electives from the course options. No more than two courses can be from any one department. For multiple-listed courses, department is determined by how it is listed in the plan, not by the department under which the student enrolls.
 
-### Atmospheric and Water Science {#atmospheric-and-water-science}
+### REQUIRED: Environment 175
 
-Choose from A&O Sci 101, 103, M105, 130, EPSS ~~C132~~, 153, Geography 105
+_**Environment 175: Programming with Big Environmental Datasets.**_ (4) Lecture, three hours. Enforced requisite: Statistics 12 or 13, or Life Science 40. Students gain practical experience conducting empirical research by learning how to program using R. Given the demands of "big data", modern empirical research usually requires the use of powerful statistical software, like R. The programming language students learn shares many similarities with other statistical programs, providing students with a valuable labor-market skill. P/NP or letter grading. (Must be taken for a letter grade for the major).
+
+
+### Atmospheric and Oceanic Science {#atmospheric-and-oceanic-science}
 
 \(Crossed out courses have been discontinued by the department offering them; they apply if they have been taken but will not be available in the future\).
 
 _**Atmospheric and Oceanic Sciences 101. Fundamentals of Atmospheric Dynamics and Thermodynamics.**_ \(5\) Lecture, four hours; discussion, one hour. Requisites: Mathematics 3B or 31B, Physics 1B or 6B. Recommended: course 3. Introduction to atmospheric environment, with emphasis on thermodynamics, dynamics, and structure of atmosphere. Laws of thermodynamics; work, heat, and cyclic processes. Adiabatic processes, moisture, and atmospheric stability. Hydrostatic balance. Fundamental equations of motion, with applications to atmospheric flow. Circulation and vorticity. Letter grading.
 
+_**Atmospheric and Oceanic Sciences 102. Climate Change and Climate Modeling**._ \(4\) Lecture, three hours; discussion, one hour. Enforced requisites: Mathematics 3C or 32A, Physics 1B or 6C, with grades of C or better. Global environmental issues in climate change due to human activities or natural climate variations. Quantitative introduction to new science of climate modeling to understand and predict these changes. Physical processes in climate system. Atmospheric and oceanic circulation. El niño and year-to-year climate prediction. Greenhouse effect and global warming. P/NP or letter grading. _\[Prerequisites can be waived by permission of instructor, and generally are not enforced by the enrollment system\]_
+
 _**Atmospheric and Oceanic Sciences 103. Physical Oceanography.**_\(4\) Lecture, three hours; discussion, one hour. Requisite: Mathematics 3B or 31B. Introductory course for physical sciences, life sciences, or engineering majors interested in environmental issues. Observations of temperature, salinity, density, and currents. Methods. Wind-driven and geostrophic currents. California Current and Gulf Stream. Internal waves. Surface waves and tides. Air/sea interactions. Coastal upwelling. Biological/physical interactions. El niño. Role of ocean in climate and global change. Santa Monica Bay field trip. Letter grading.
+
+_**Atmospheric and Oceanic Sciences 104. Fundamentals of Air and Water Pollution**._ \(4\) Lecture, three hours; discussion, one hour. Requisite: Chemistry 14B or 20B. Chemistry and physics of air and water pollution, including photochemistry, acid rain, air pollution meteorology and dispersion, groundwater and surface water pollution, chemical cycling, air/water interface, global atmospheric change. Letter grading.
 
 _**Atmospheric and Oceanic Sciences M105. Introduction to Chemical Oceanography.**_ \(4\) \(Same as Ecology and Evolutionary Biology M139.\) Lecture, three hours; discussion, one hour. Introductory course for physical sciences, life sciences, and engineering majors interested in oceanic environment. Chemical composition of oceans and nature of physical, chemical, and biological processes governing this composition in past and present. Cycles of major and minor oceanic constituents, with focus on those that are most important for life \(i.e., carbon, nitrogen, phosphorus, silicon, and oxygen\). Investigation of primary production, export production, remineralization, diagenesis, air-sea gas exchange processes. Letter grading.
 
+_**Atmospheric and Oceanic Sciences 107. Biological Oceanography.**_ \(4\) Lecture, three hours; discussion, one hour. Introductory course for physical sciences, life sciences, and engineering majors interested in oceanic environment. Review of how biological processes are intrinsically tied to physical and chemical processes in oceans. Examination of processes that control distribution, abundance, and production of marine organisms and their spatial and temporal variability. Letter grading.
+
+_**Atmospheric and Oceanic Sciences 112. Climate Change Assessment.**_ \(4\) Lecture, three hours. Preparation: one upper-division course in Atmospheric and Oceanic Sciences or Environmental Science. Requisite: Mathematics 3B or 31B. Projections of future anthropogenic climate change and understanding of natural climate variability depend on international climate model intercomparison projects, on large observing systems coordinating space and ground observations, and on multi-scientist climate assessments. Lectures, readings and projects address current issues in the scientific literature on assessment of climate change for students with prior background in the atmospheric, oceanic and environmental sciences. P/NP or letter grading.
+
 _**Atmospheric and Oceanic Sciences 130. California’s Ocean.**_\(4\) Lecture, four hours. Recommended requisite: course 103 or M105. Circulation, biogeochemistry, biota, water quality, measurement techniques, computational modeling, conservation, and management for California’s coastal ocean, including coastal measurement cruise and term project \(paper and presentation\). Letter grading.
+
+_**Atmospheric and Oceanic Sciences 141. Introduction to Atmospheric Chemistry and Air Pollution.**_ \(4\) Lecture, three hours; discussion, one hour. Requisites: Chemistry 14B or 20B, Mathematics 3A or 31A, Physics 1B or 6B. Physical and chemical processes that determine composition of atmosphere and its implications for climate, ecosystems, and human welfare. Origin of atmosphere. Nitrogen, oxygen, carbon, sulfur, trace metal cycles. Climate and greenhouse effect. Atmospheric transport and turbulence. Stratospheric ozone. Oxidizing power of atmosphere. Regional air pollution: aerosols, smog, mercury, and acid rain. Letter grading.
+
+
+
+
+
+
 
 _**Earth Planetary and Space Sciences 153. Oceans and Atmospheres.**_ \(4\) Lecture, three hours; discussion, one hour. Requisites: Mathematics 31A, 31B, 32A, Physics 1A, 1B, and 1C \(or 1AH, 1BH, and 1CH\). Physics and chemistry of Earth’s oceans and atmosphere; origin and evolution of planetary atmospheres; biogeochemical cycles, atmospheric radiation and climate, energetics and dynamics of oceanic and atmospheric circulation systems. P/NP or letter grading. _\[Prerequisites can be waived by permission of instructor - students advised to have 2 calculus and 2 physics courses\]_
 
 _**Geography 105. Hydrology**_**.** \(4\) Lecture, three hours. Requisites: course 104, Statistics 12. Role of water in geographic systems: hydrologic phenomena in relation to climate, landforms, soils, vegetation, and cultural processes and impacts on landscape. Field projects required. P/NP or letter grading. _\[104 not required; any statistics course is acceptable\]_
 
-### Climate Science {#climate-science}
+### Chemical Engineering {#chemical-engineering}
 
-Choose from A&O Sci 102, 112 Geography 102, 104, M106, M131
+_**Chemical Engineering C118. Multimedia Environmental Assessment.**_\(4\) Lecture, four hours; discussion, one hour; preparation, two hours; outside study, five hours. Recommended requisites: courses 101C, 102B. Pollutant sources, estimation of source releases, waste minimization, transport and fate of chemical pollutants in environment, intermedia transfers of pollutants, multimedia modeling of chemical partitioning in environment, exposure assessment and fundamentals of risk assessment, risk reduction strategies. Concurrently scheduled with course C218. Letter grading.
 
-_**Atmospheric and Oceanic Sciences 102. Climate Change and Climate Modeling**._ \(4\) Lecture, three hours; discussion, one hour. Enforced requisites: Mathematics 3C or 32A, Physics 1B or 6C, with grades of C or better. Global environmental issues in climate change due to human activities or natural climate variations. Quantitative introduction to new science of climate modeling to understand and predict these changes. Physical processes in climate system. Atmospheric and oceanic circulation. El niño and year-to-year climate prediction. Greenhouse effect and global warming. P/NP or letter grading. _\[Prerequisites can be waived by permission of instructor, and generally are not enforced by the enrollment system\]_
+### Civil and Environmental Engineering {#civil-and-environmental-engineering}
 
-_**Atmospheric and Oceanic Sciences 112. Climate Change Assessment.**_ \(4\) Lecture, three hours. Preparation: one upper-division course in Atmospheric and Oceanic Sciences or Environmental Science. Requisite: Mathematics 3B or 31B. Projections of future anthropogenic climate change and understanding of natural climate variability depend on international climate model intercomparison projects, on large observing systems coordinating space and ground observations, and on multi-scientist climate assessments. Lectures, readings and projects address current issues in the scientific literature on assessment of climate change for students with prior background in the atmospheric, oceanic and environmental sciences. P/NP or letter grading.
+_**Civil and Environmental Engineering 153. Introduction to Environmental Engineering Science.**_ \(4\) Lecture, four hours; discussion, one hour \(when scheduled\); outside study, seven hours. Recommended requisite: Mechanical and Aerospace Engineering 103. Water, air, and soil pollution: sources, transformations, effects, and processes for removal of contaminants. Water quality, water and wastewater treatment, waste disposal, air pollution, global environmental problems. Field trip. Letter grading.
+
+_**Civil and Environmental Engineering 154. Chemical Fate and Transport in Aquatic Environments.**_ \(4\) Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisite: course 153. Fundamental physical, chemical, and biological principles governing movement and fate of chemicals in surface waters and groundwater. Topics include physical transport in various aquatic environments, air-water exchange, acid-base equilibria, oxidation-reduction chemistry, chemical sorption, biodegradation, and bioaccumulation. Practical quantitative problems solved considering both reaction and transport of chemicals in environment. Letter grading.
+
+_**Civil and Environmental Engineering M166. Environmental Microbiology.**_\(4\) \(Same as Environmental Health Sciences M166.\) Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisite: course 153. Microbial cell and its metabolic capabilities, microbial genetics and its potentials, growth of microbes and kinetics of growth, microbial ecology and diversity, microbiology of wastewater treatment, probing of microbes, public health microbiology, pathogen control. Letter grading.
+
+
+
+
+
 
 _**Geography 102. Tropical Climatology.**_\(4\) Lecture, three hours. In-depth exploration of development of tropical climate, with special reference to hurricanes, ENSO, and monsoons. Examination of human interaction with tropical climate processes and human-induced climate change in tropics. Use of climatological information to foster sound environmental management of climate-related resources in tropics. P/NP or letter grading.
 
@@ -155,19 +179,7 @@ _**Environment 166. Leadership in Water Management.**_\(4\) Lecture, three hours
 
 _**Public Policy C115. Environmental and Resource Economics and Policy.**_\(4\) Lecture, three hours. Requisites: Economics 11, 143. Survey of ways economics is used to define, analyze, and resolve problems of environmental management. Overview of analytical questions addressed by environmental economists that bear on public policies. Concurrently scheduled with course CM250. Letter grading.
 
-### Pollutant Sources, Treatment, Fate and Transport {#pollutant-sources-treatment-fate-and-transport}
 
-Choose from Atmospheric and Oceanic Sciences 104, Chemical Engineering C118, Civil and Environmental Engineering 153, 154, M166, Environmental Health Sciences 100, C125, C152D, C164
-
-_**Atmospheric and Oceanic Sciences 104. Fundamentals of Air and Water Pollution**._ \(4\) Lecture, three hours; discussion, one hour. Requisite: Chemistry 14B or 20B. Chemistry and physics of air and water pollution, including photochemistry, acid rain, air pollution meteorology and dispersion, groundwater and surface water pollution, chemical cycling, air/water interface, global atmospheric change. Letter grading.
-
-_**Chemical Engineering C118. Multimedia Environmental Assessment.**_\(4\) Lecture, four hours; discussion, one hour; preparation, two hours; outside study, five hours. Recommended requisites: courses 101C, 102B. Pollutant sources, estimation of source releases, waste minimization, transport and fate of chemical pollutants in environment, intermedia transfers of pollutants, multimedia modeling of chemical partitioning in environment, exposure assessment and fundamentals of risk assessment, risk reduction strategies. Concurrently scheduled with course C218. Letter grading.
-
-_**Civil and Environmental Engineering 153. Introduction to Environmental Engineering Science.**_ \(4\) Lecture, four hours; discussion, one hour \(when scheduled\); outside study, seven hours. Recommended requisite: Mechanical and Aerospace Engineering 103. Water, air, and soil pollution: sources, transformations, effects, and processes for removal of contaminants. Water quality, water and wastewater treatment, waste disposal, air pollution, global environmental problems. Field trip. Letter grading.
-
-_**Civil and Environmental Engineering 154. Chemical Fate and Transport in Aquatic Environments.**_ \(4\) Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisite: course 153. Fundamental physical, chemical, and biological principles governing movement and fate of chemicals in surface waters and groundwater. Topics include physical transport in various aquatic environments, air-water exchange, acid-base equilibria, oxidation-reduction chemistry, chemical sorption, biodegradation, and bioaccumulation. Practical quantitative problems solved considering both reaction and transport of chemicals in environment. Letter grading.
-
-_**Civil and Environmental Engineering M166. Environmental Microbiology.**_\(4\) \(Same as Environmental Health Sciences M166.\) Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisite: course 153. Microbial cell and its metabolic capabilities, microbial genetics and its potentials, growth of microbes and kinetics of growth, microbial ecology and diversity, microbiology of wastewater treatment, probing of microbes, public health microbiology, pathogen control. Letter grading.
 
 _**Environmental Health Sciences 100. Introduction to Environmental Health.**_ \(4\) Lecture, three hours; discussion, one hour. Preparation: one course each in chemistry and biology. Introduction to environmental health, including coverage of sanitary principles and chronic and acute health effects of environmental contaminants. P/NP or letter grading.
 
