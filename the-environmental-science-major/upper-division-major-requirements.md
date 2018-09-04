@@ -74,16 +74,6 @@ _**Atmospheric and Oceanic Sciences 130. California’s Ocean.**_\(4\) Lecture, 
 
 _**Atmospheric and Oceanic Sciences 141. Introduction to Atmospheric Chemistry and Air Pollution.**_ \(4\) Lecture, three hours; discussion, one hour. Requisites: Chemistry 14B or 20B, Mathematics 3A or 31A, Physics 1B or 6B. Physical and chemical processes that determine composition of atmosphere and its implications for climate, ecosystems, and human welfare. Origin of atmosphere. Nitrogen, oxygen, carbon, sulfur, trace metal cycles. Climate and greenhouse effect. Atmospheric transport and turbulence. Stratospheric ozone. Oxidizing power of atmosphere. Regional air pollution: aerosols, smog, mercury, and acid rain. Letter grading.
 
-
-
-
-
-
-
-_**Earth Planetary and Space Sciences 153. Oceans and Atmospheres.**_ \(4\) Lecture, three hours; discussion, one hour. Requisites: Mathematics 31A, 31B, 32A, Physics 1A, 1B, and 1C \(or 1AH, 1BH, and 1CH\). Physics and chemistry of Earth’s oceans and atmosphere; origin and evolution of planetary atmospheres; biogeochemical cycles, atmospheric radiation and climate, energetics and dynamics of oceanic and atmospheric circulation systems. P/NP or letter grading. _\[Prerequisites can be waived by permission of instructor - students advised to have 2 calculus and 2 physics courses\]_
-
-_**Geography 105. Hydrology**_**.** \(4\) Lecture, three hours. Requisites: course 104, Statistics 12. Role of water in geographic systems: hydrologic phenomena in relation to climate, landforms, soils, vegetation, and cultural processes and impacts on landscape. Field projects required. P/NP or letter grading. _\[104 not required; any statistics course is acceptable\]_
-
 ### Chemical Engineering {#chemical-engineering}
 
 _**Chemical Engineering C118. Multimedia Environmental Assessment.**_\(4\) Lecture, four hours; discussion, one hour; preparation, two hours; outside study, five hours. Recommended requisites: courses 101C, 102B. Pollutant sources, estimation of source releases, waste minimization, transport and fate of chemical pollutants in environment, intermedia transfers of pollutants, multimedia modeling of chemical partitioning in environment, exposure assessment and fundamentals of risk assessment, risk reduction strategies. Concurrently scheduled with course C218. Letter grading.
@@ -96,10 +86,37 @@ _**Civil and Environmental Engineering 154. Chemical Fate and Transport in Aquat
 
 _**Civil and Environmental Engineering M166. Environmental Microbiology.**_\(4\) \(Same as Environmental Health Sciences M166.\) Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisite: course 153. Microbial cell and its metabolic capabilities, microbial genetics and its potentials, growth of microbes and kinetics of growth, microbial ecology and diversity, microbiology of wastewater treatment, probing of microbes, public health microbiology, pathogen control. Letter grading.
 
+### Earth Planetary and Space Science {#earth-science}
+
+_**Earth Planetary and Space Sciences 101. Earth’s Energy: Diminishing Fossil Resources and Prospects for Sustainable Future.**_ \(4\) Lecture, three hours; laboratory, two hours; two optional field trips. Preparation: one lower-division atmospheric sciences, chemistry, Earth sciences, or physics course. Earth’s energy resources \(fossil fuels and alternatives\) from Earth science and sustainability perspective. P/NP or letter grading.
+
+_**Earth Planetary and Space Sciences C113. Biological and Environmental Geochemistry.**_\(4\) Lecture, three hours. Requisites: Chemistry 14A and 14B \(or 20A and 20B\), Mathematics 3A, 3B, and 3C \(or 31A and 31B\). Recommended: at least one lower-division Earth, planetary, and space sciences course. Intended for junior/senior life and physical sciences students. Study of chemistry of Earth’s surface environment and interplay between biology, human activity, and geology. Introduction to origin and composition of Earth, including atmosphere, crust, and hydrosphere. Examination of how these reservoirs are affected by biological cycles and feedbacks to biological evolution and diversity. Local and global-scale movements of biologically important elements like carbon, nitrogen, and phosphorus. Concurrently scheduled with course C213. P/NP or letter grading. _\[3C not required\]_
+
+_**Earth Planetary and Space Sciences 119. Continental Drift and Plate Tectonics.**_ \(4\) Lecture, three hours. Requisite: course 1 or 100. Designed for juniors/seniors in physical sciences. Classical concepts of sedimentation and tectonics. Alfred Wegener’s theory of continental drift and ensuing controversy. Physiography of continents and oceans. Geophysical evidence regarding nature of ocean floor. Magnetic stratigraphy. Seafloor spreading. Plate tectonic model and its driving mechanisms. Tectonic, igneous, and metamorphic processes at plate boundaries. P/NP or letter grading. _\[Requisites can be waived by instructor\]_
+
+_**Earth Planetary and Space Sciences 139. Engineering and Environmental Geology.**_** \(4\) Lecture, three hours; discussion, one hour. Requisite: course 1 or 100. Recommended: course 111. Principles and practice of soil mechanics and foundation engineering in light of geologic conditions, recognition, prediction, and control or abatement of subsidence, landslides, earthquakes, and other geologic aspects of urban planning and subsurface disposal of liquids and solid wastes. P/NP or letter grading. _\[Requisites can be waived by instructor\]_
+
+_**Earth Planetary and Space Sciences 150. Remote Sensing for Earth Sciences.**_ \(4\) Lecture, three hours. Recommended requisites: courses 1, 61. Designed for juniors/seniors and graduate students. Remote sensing related to development of natural resources. Characteristics of electromagnetic spectrum and review of remote sensing devices. Applicability to land-use classification, soil survey, urban studies, vegetation classification; emphasis on geologic interpretation of imagery. P/NP or letter grading _\[Requisites can be waived by instructor\]_
+
+_**Earth Planetary and Space Sciences 153. Oceans and Atmospheres.**_ \(4\) Lecture, three hours; discussion, one hour. Requisites: Mathematics 31A, 31B, 32A, Physics 1A, 1B, and 1C \(or 1AH, 1BH, and 1CH\). Physics and chemistry of Earth’s oceans and atmosphere; origin and evolution of planetary atmospheres; biogeochemical cycles, atmospheric radiation and climate, energetics and dynamics of oceanic and atmospheric circulation systems. P/NP or letter grading. _\[Prerequisites can be waived by permission of instructor - students advised to have 2 calculus and 2 physics courses\]_
+
+### Ecology and Evolutionary Biology {#ecology-biology}
+
+_**Ecology and Evolutionary Biology 100. Introduction to Ecology and Behavior.**_ \(4\) Lecture, three hours; discussion, one hour. Requisite: Life Sciences 1. Not open for credit to students with credit for course 118, C119A, C119B, 122 through C126, 129, 132 through 134B, 136, or 151B. Introduction to methods and topics in ecology and behavior. Growth and regulation of populations, organization of communities and ecosystems, biogeography, and behaviors animals use to find food, choose mates, and interact in social groups. Letter grading.
+
+_**Ecology and Evolutionary Biology 109. Introduction to Marine Science.**_ \(4\) Lecture, three hours; discussion, one hour. Requisite: Life Sciences 1. Strongly recommended for prospective Marine Biology Quarter students. Introduction to physical and biological world of 70 percent of planet: oceans. Designed to be integrative, with focus on geological evolution of seas, physical and chemical properties of water, and how these abiotic processes shape ecology and evolution of marine organisms and environments. Letter grading.
+
+_**Ecology and Evolutionary Biology 116. Conservation Biology.**_ \(4\) Lecture, three hours; discussion, two hours. Requisite: Life Sciences 1. Recommended: course 100. Not open for credit to students with credit for Environment 121. Study of ecological and evolutionary principles as they apply to preservation of genetic, species, and ecosystem diversity. Discussion sections focus on interactions of science, policy, and economics in conserving biodiversity. Oral and written student presentation on specific conservation issues. Letter grading.
+
+_**Ecology and Evolutionary Biology 151A. Tropical Ecology.**_** \(4\) Lecture, one hour; discussion, two hours. Requisite: Life Sciences 1. Broad introduction to biodiversity, community structure, and dynamics and ecosystem function of range of tropical forest habitats. Discussion of such themes as biogeography, forest structure, plant growth forms, animal communities, herbivory, forest dynamics, and disturbance regimes. P/NP or letter grading.
+
+_**Ecology and Evolutionary Biology 154. California Ecosystems.**_** \(5\) Lecture, three hours; laboratory or field trip, four hours. Requisite: Life Sciences 1. Recommended: course 100. Introduction to structure, biodiversity, and dynamics of California ecosystems, with focus on Southern California, and impact of human activities on these systems. P/NP or letter grading.
 
 
 
 
+
+_**Geography 105. Hydrology**_**.** \(4\) Lecture, three hours. Requisites: course 104, Statistics 12. Role of water in geographic systems: hydrologic phenomena in relation to climate, landforms, soils, vegetation, and cultural processes and impacts on landscape. Field projects required. P/NP or letter grading. _\[104 not required; any statistics course is acceptable\]_
 
 _**Geography 102. Tropical Climatology.**_\(4\) Lecture, three hours. In-depth exploration of development of tropical climate, with special reference to hurricanes, ENSO, and monsoons. Examination of human interaction with tropical climate processes and human-induced climate change in tropics. Use of climatological information to foster sound environmental management of climate-related resources in tropics. P/NP or letter grading.
 
@@ -109,21 +126,7 @@ _**Geography M106. Applied Climatology: Principles of Climate Impact on Natural 
 
 _**Geography M131. Environmental Change.**_** **\(4\) \(Same as Environment M130.\) Lecture, three hours; reading period, one hour. Designed for juniors/seniors. Examination of natural forces producing environmental changes over past two million years. How present landscape reflects past conditions. Effects of environmental change on people. Increasing importance of human activity in environmental modification. Focus on impact of natural and anthropogenic changes on forests. P/NP or letter grading.
 
-### **Earth Science** {#earth-science}
 
-Choose from EPSS 101, C113, 119, ~~135~~, 139, 150, Geography 100, 101, M107, M127/177
-
-\(Crossed out courses have been discontinued by the department offering them; they apply if they have been taken but will not be available in the future\).
-
-_**Earth Planetary and Space Sciences 101. Earth’s Energy: Diminishing Fossil Resources and Prospects for Sustainable Future.**_ \(4\) Lecture, three hours; laboratory, two hours; two optional field trips. Preparation: one lower-division atmospheric sciences, chemistry, Earth sciences, or physics course. Earth’s energy resources \(fossil fuels and alternatives\) from Earth science and sustainability perspective. P/NP or letter grading.
-
-_**Earth Planetary and Space Sciences C113. Biological and Environmental Geochemistry.**_\(4\) Lecture, three hours. Requisites: Chemistry 14A and 14B \(or 20A and 20B\), Mathematics 3A, 3B, and 3C \(or 31A and 31B\). Recommended: at least one lower-division Earth, planetary, and space sciences course. Intended for junior/senior life and physical sciences students. Study of chemistry of Earth’s surface environment and interplay between biology, human activity, and geology. Introduction to origin and composition of Earth, including atmosphere, crust, and hydrosphere. Examination of how these reservoirs are affected by biological cycles and feedbacks to biological evolution and diversity. Local and global-scale movements of biologically important elements like carbon, nitrogen, and phosphorus. Concurrently scheduled with course C213. P/NP or letter grading. _\[3C not required\]_
-
-_**Earth Planetary and Space Sciences 119. Continental Drift and Plate Tectonics.**_ \(4\) Lecture, three hours. Requisite: course 1 or 100. Designed for juniors/seniors in physical sciences. Classical concepts of sedimentation and tectonics. Alfred Wegener’s theory of continental drift and ensuing controversy. Physiography of continents and oceans. Geophysical evidence regarding nature of ocean floor. Magnetic stratigraphy. Seafloor spreading. Plate tectonic model and its driving mechanisms. Tectonic, igneous, and metamorphic processes at plate boundaries. P/NP or letter grading. _\[Requisites can be waived by instructor\]_
-
-_**Earth Planetary and Space Sciences 139. Engineering and Environmental Geology.**_** **\(4\) Lecture, three hours; discussion, one hour. Requisite: course 1 or 100. Recommended: course 111. Principles and practice of soil mechanics and foundation engineering in light of geologic conditions, recognition, prediction, and control or abatement of subsidence, landslides, earthquakes, and other geologic aspects of urban planning and subsurface disposal of liquids and solid wastes. P/NP or letter grading. _\[Requisites can be waived by instructor\]_
-
-_**Earth Planetary and Space Sciences 150. Remote Sensing for Earth Sciences.**_ \(4\) Lecture, three hours. Recommended requisites: courses 1, 61. Designed for juniors/seniors and graduate students. Remote sensing related to development of natural resources. Characteristics of electromagnetic spectrum and review of remote sensing devices. Applicability to land-use classification, soil survey, urban studies, vegetation classification; emphasis on geologic interpretation of imagery. P/NP or letter grading _\[Requisites can be waived by instructor\]_
 
 _**Geography 100. Principles of Geomorphology.**_ \(4\) Lecture, three hours; reading period, one hour. Requisite: course 1. Recommended: course 100A. Study of processes that shape world’s landforms, with emphasis on weathering, mass movement and fluvial erosion, transport, deposition; energy and material transfers; space and time considerations. P/NP or letter grading.
 
@@ -135,19 +138,6 @@ _**Geography M127. Soils and Environment.**_** **\(4\) \(Same as Ecology and Evo
 
 _**Geography 177. Field Methods in Physical Geography.**_ \(5\) Lecture, three hours; laboratory, three hours. Not open for credit to students with credit for course M127. Examination of field procedures and concepts used in observation, measurement, analysis, and interpretation of physical phenomena pertinent to natural and built environment. Topics vary from year to year and may include soils, geomorphology, and field methods in geographic information science. May be repeated for credit with topic change. P/NP or letter grading.
 
-### **Ecology & Conservation Biology** {#ecology-conservation-biology}
-
-Choose from EEB 100, 109, 116, 151A, 154, Environment 121, Geography 111, 113
-
-_**Ecology and Evolutionary Biology 100. Introduction to Ecology and Behavior.**_** **\(4\) Lecture, three hours; discussion, one hour. Requisite: Life Sciences 1. Not open for credit to students with credit for course 118, C119A, C119B, 122 through C126, 129, 132 through 134B, 136, or 151B. Introduction to methods and topics in ecology and behavior. Growth and regulation of populations, organization of communities and ecosystems, biogeography, and behaviors animals use to find food, choose mates, and interact in social groups. Letter grading.
-
-_**Ecology and Evolutionary Biology 109. Introduction to Marine Science.**_\(4\) Lecture, three hours; discussion, one hour. Requisite: Life Sciences 1. Strongly recommended for prospective Marine Biology Quarter students. Introduction to physical and biological world of 70 percent of planet: oceans. Designed to be integrative, with focus on geological evolution of seas, physical and chemical properties of water, and how these abiotic processes shape ecology and evolution of marine organisms and environments. Letter grading.
-
-_**Ecology and Evolutionary Biology 116. Conservation Biology.**_ \(4\) Lecture, three hours; discussion, two hours. Requisite: Life Sciences 1. Recommended: course 100. Not open for credit to students with credit for Environment 121. Study of ecological and evolutionary principles as they apply to preservation of genetic, species, and ecosystem diversity. Discussion sections focus on interactions of science, policy, and economics in conserving biodiversity. Oral and written student presentation on specific conservation issues. Letter grading.
-
-_**Ecology and Evolutionary Biology 151A. Tropical Ecology.**_** **\(4\) Lecture, one hour; discussion, two hours. Requisite: Life Sciences 1. Broad introduction to biodiversity, community structure, and dynamics and ecosystem function of range of tropical forest habitats. Discussion of such themes as biogeography, forest structure, plant growth forms, animal communities, herbivory, forest dynamics, and disturbance regimes. P/NP or letter grading.
-
-_**Ecology and Evolutionary Biology 154. California Ecosystems.**_** **\(5\) Lecture, three hours; laboratory or field trip, four hours. Requisite: Life Sciences 1. Recommended: course 100. Introduction to structure, biodiversity, and dynamics of California ecosystems, with focus on Southern California, and impact of human activities on these systems. P/NP or letter grading.
 
 _**Environment 121. Conservation of Biodiversity.**_ \(4\) Lecture, three hours; discussion, two hours. Not open for credit to students with credit for Ecology and Evolutionary Biology 116. Examination of interrelation of natural biotic and human systems. Description of distribution of biodiversity and natural processes that maintain it. Critical analysis of various levels of threats and multidimensional challenges required for mitigating threats. Letter grading.
 
