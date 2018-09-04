@@ -244,3 +244,6 @@ _**Environment 180A. Practicum in Environmental Science.**_\(4\) Lecture, three 
 
 _**Environment 180B-180C. Practicum in Environmental Science.**_** \(5-5\) Laboratory, four hours; field trips. Enforced requisite: course 180A. Course 180B is enforced requisite to 180C. Limited to junior/senior Environmental Science majors. Investigation of various aspects of one environmental case study representing actual multidisciplinary issue. Particular emphasis on developing skills required for working as professionals in this field. Work may involve site investigations, original data collection and analysis, mapping and geographic information systems, and environmental policy and law issues. Case study to be defined and conducted with collaboration of local agency or nonprofit institution. Letter grading.
 
+## Course Groupings
+
+The following groupings of courses are meant to help you plan your major courses based upon your interests and goals. The courses are grouped by topic but across departmental boundaries. These groupings are meant to be suggestive of possible pathways and helpful for planning, but they should not be seen as proscriptive. 
