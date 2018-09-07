@@ -1,10 +1,19 @@
-# Scholarships & Financial Aid
+# Research Grants, Scholarships & Financial Aid
 
-## IoES Exclusive Scholarships {#ioes-exclusive-scholarships}
+## IoES Exclusive Research Grants & Scholarships
 
-The IoES offers two scholarships exclusively for UCLA students enrolled in the Environmental Science B.S. The **Glickfeld Family Scholarship** and the **Greenspan Family Scholarship** have been established by great supporters of the IoES specifically for Environmental Science majors. Many of you qualify for these scholarships, so please take advantage of them!
+The IoES administers a grant and scholarship for undergraduate students to support their work at the IoES.
 
-See the [IoES Scholarship](https://www.ioes.ucla.edu/envisci/scholarships/) page for information, instructions, and application materials for the Glickfeld Family Scholarship and the Greenspan Family Scholarship.
+The Glickfeld Excellence in Environmental Research Grant
+
+A $4,000 annual grant is awarded to one Environmental Science student each year. The funds will be used to pay the salary of a student working as a research assistant under supervision of a faculty member at UCLA.
+
+The Greenspan Family Scholarship
+
+In 2018-19, we are pleased to offer once again a $2,000 Greenspan Family Scholarship exclusive for IoES Environmental Science majors.
+
+Please see the IoES website for deadlines and applications.
+https://www.ioes.ucla.edu/envisci/scholarships/
 
 ## UCLA Financial Aid {#ucla-financial-aid}
 
