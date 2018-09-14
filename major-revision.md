@@ -13,3 +13,6 @@ Those elements that are our strengths have remained unchanged or in fact been st
 3.	Create a better sense of cohesion and camaraderie amongst the majors, particularly by cohort, by introducing required courses intended to be taken in particular stages of advancement. Ideally Environmental Science majors will have at least one course each academic year where the majority or entirety of the class will be other Environmental Science majors, primarily from the same cohort. Complementing this will be the Jr Retreat, a complete cohort camping trip during zero week of the junior/3rd year of study. 
 
 We hope that you will find the revised major a significant improvement and the changes helpful as you make your way through your undergraduate program. 
+
+
+The IoES would like to sincerely thank all of those who put so much time and effort into this major revision. All of the many committees who read, considered and commented on the changes provided invaluable assistance in its creation. In particular, the IoES would like to thank Professor Greg Okin, who chaired the Curriculum Revision Committee and 
