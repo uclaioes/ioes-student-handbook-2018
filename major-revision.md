@@ -14,5 +14,8 @@ Those elements that are our strengths have remained unchanged or in fact been st
 
 We hope that you will find the revised major a significant improvement and the changes helpful as you make your way through your undergraduate program. 
 
+**Acknowlegements
 
-The IoES would like to sincerely thank all of those who put so much time and effort into this major revision. All of the many committees who read, considered and commented on the changes provided invaluable assistance in its creation. In particular, the IoES would like to thank Professor Greg Okin, who chaired the Curriculum Revision Committee and 
+The IoES wishes to sincerely thank all of those who put so much time and effort into this major revision. All of the many committees who read, considered and commented on the changes provided invaluable assistance in its creation. 
+
+In particular, the IoES would like to thank Professor Greg Okin, who chaired the curriculum revision working group and the B.S. Advisory Committee and was a model of mission management; the members of the curriculum working group: Jenny Jay, Rob Eagle, Alan Barreca, Noah Garrison, and Cully Nordby, and the contributions of the other members of the Environmental Science B.S. Advisory Committee who added valuable comments and tweaks to the plan: Ulli Seibt, Malcolm Gordon, Yifang Zhu, and Aradhna Tripati. 
