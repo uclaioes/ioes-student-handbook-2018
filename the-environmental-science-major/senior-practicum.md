@@ -1,6 +1,6 @@
 # Senior Practicum
 
-## Overview {#overview}
+## [Overview](#overview)
 
 The three-quarter Practicum in Environmental Science is the capstone educational experience required of all environmental science majors and represents a significant departure from conventional teaching and learning experiences at UCLA.
 
@@ -16,7 +16,7 @@ In the first quarter of the capstone sequence, students attend lectures and pres
 
 Course work for the 180A class includes two major components:
 
-* A lab based introduction to data handling, basic statistics and data exploration, and spatial analysis using Geographic Information Systems \(GIS\). Labs, which focus on the application of these tools to environmental problem solving, meet once per week, but students should expect to spend 6-8 hours per week outside of scheduled lab time completing assignments.
+* A lab based introduction to data handling, basic statistics and data exploration, and spatial analysis using Geographic Information Systems (GIS). Labs, which focus on the application of these tools to environmental problem solving, meet once per week, but students should expect to spend 6-8 hours per week outside of scheduled lab time completing assignments.
 * The literature review – after being assigned to a Practicum project, students conduct independent literature reviews of recent scientific and policy research on a specific aspect of their project topic. Students effectively ask the question “what do we know, or not know about a particular issue?” This differs from most research papers or essays students have written in previous classes; the literature review does not involve developing and supporting a thesis. Instead, students conduct a critical analysis on the current state of research, including reviewing any gaps in knowledge and problems with research methodologies, or any controversies or major disagreements in the field, to prepare themselves for tackling their Practicum project in 180B/C.
 
 ## [180B/C: Winter and Spring Quarters](#180b-c-winter-and-spring-quarters)
