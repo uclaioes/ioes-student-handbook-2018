@@ -1,4 +1,4 @@
 # Appendix
 
-![UCLA IoES](../.gitbook/assets/appendix.jpg)
+![UCLA IoES](../assets/appendix.jpg)
 
