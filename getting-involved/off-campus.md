@@ -2,11 +2,11 @@
 
 The City of Los Angeles is home to an almost dizzying array of environmental organizations and agencies--non-governmental organizations (NGOs) like Heal the Bay, the Natural Resources Defense Council (NRDC), Center for Biological Diversity; local, state, and Federal agencies including the City of Los Angeles and City of Santa Monica’s Office of Sustainability, the Los Angeles Regional Water Quality Control Board, and National Park Service; as well as initiatives like the Los Angeles Cleantech Incubator (LACI) and private companies and consulting firms that all employ scientists, sustainability experts, and policy researchers. Below are some possible paths for getting involved with organizations beyond UCLA.
 
-## Volunteer {#volunteer}
+## [Volunteer](#volunteer)
 
 One of the best ways to gain invaluable experience while at the same time exploring areas of research or possible career paths that might interest you is through volunteering. A number of environmental non-profit organizations and government agencies, at the local, state, and federal level, provide opportunities for students to join in part-time roles to carry out work ranging from substantive research, to environmental restoration efforts, to assistance with educational and outreach initiatives. For more information on possible volunteer opportunities, or to connect with students and alumni that may have volunteered for organizations that interest you, please contact Noah Garrison (ngarrison@ioes.ucla.edu) or Royce Dieckmann (rdieckmann@ioes.ucla.edu).
 
-## Internships {#internships}
+## [Internships](#internships)
 
 Similar to volunteer opportunities, internships are valuable for students seeking experience in a specific field or type of organization, and can certainly be useful for networking purposes when seeking employment upon graduation. The goal of any internship is that the student be provided with a learning opportunity about the type of work the organization does and ideally will be involved in many aspects of the positions available at the organization. NGOs, government agencies, public utilities, private companies and corporations - students can intern almost anywhere. There are two main types of internships - paid or unpaid - and a different set of regulations that cover them.
 
