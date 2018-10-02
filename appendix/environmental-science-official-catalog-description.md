@@ -28,17 +28,17 @@ For the geography/environmental studies minor, two courses from Chemistry and Bi
 
 Each course applied toward requirements for preparation for the major must be passed with a grade of C- or better. Students receiving a grade below C- in two courses, either in separate courses or repetitions of the same course, are subject to dismissal from the major.
 
-### **Transfer Students** {#transfer-students}
+### [Transfer Students](#transfer-students)
 
 Transfer applicants to the Environmental Science major with 90 or more units must complete as many of the following introductory courses as possible prior to admission to UCLA: two general chemistry courses with laboratory for majors, two general biology courses with laboratory for majors, two calculus courses, and two calculus-based physics courses.
 
 Refer to the[UCLA Transfer Admission Guide](http://www.admission.ucla.edu/prospect/Adm_tr/tradms.htm) for up-to-date information regarding transfer selection for admission.
 
-## **The Major** {#the-major}
+## [The Major](#the-major)
 
 The major consists of four requirements: environmental science, social sciences/humanities, practicum/colloquium, and minor or concentration, as follows:
 
-### **Environmental Science Requirements** {#environmental-science-requirements}
+### [Environmental Science Requirements](#environmental-science-requirements)
 
 Required: One course from each of the following six core environmental science areas. No more than two courses may be from any one department. (1) One atmospheric and water science course from Atmospheric and Oceanic Sciences 101, 103, M105, 130, Earth, Planetary, and Space Sciences 153, or Geography 105; (2) one climate science course from Atmospheric and Oceanic Sciences 102, 112, Geography 102, 104, M106, or M131; (3) one Earth science course from Earth, Planetary, and Space Sciences 101, C113, 119, 139, 150, Environment M127, Geography 100, 101, or M107; (4) one ecology and conservation biology course from Ecology and Evolutionary Biology 100, 109, 116, 151A, 154, Environment 121, Geography 111, or 113; (5) one environmental management course from Environment M134, M135, 157, 159, 160, 162, 163, 166, or Public Policy C115; (6) one pollutant sources, treatment, fate, and transport course from Atmospheric and Oceanic Sciences 104, Chemical Engineering C118, Civil and Environmental Engineering 153, 154, M166, Environmental Health Sciences 100, C125, C152D, or C164.
 
@@ -46,11 +46,11 @@ Required: One course from each of the following six core environmental science a
 
 Required: (1) One humans and environment course from Environment M132, M133, M137, 150, M153, Geography M128, 135, M137, 150, M153, 156, or Philosophy 125; (2) one policy and politics course from Environment M155, 157, M161, M164, 166, or M167.
 
-### **Practicum/Colloquium Requirements** {#practicum-colloquium-requirements}
+### [Practicum/Colloquium Requirements](#practicum-colloquium-requirements)
 
 Required: Environment 180A, 180B, 180C, and four terms of 170 or 185A.
 
-### **Minor and Concentration Requirements** {#minor-and-concentration-requirements}
+### [Minor and Concentration Requirements](#minor-and-concentration-requirements)
 
 A minimum of 20 units applied toward the minor requirements must be in addition to units applied toward major requirements or another minor. Successful completion of a minor is indicated on the transcript and diploma.
 
