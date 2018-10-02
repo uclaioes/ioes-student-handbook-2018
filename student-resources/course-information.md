@@ -8,7 +8,7 @@ Searchable list of all courses offered in a particular term with up-to-date enro
 
 ## Course Descriptions {#course-descriptions}
 
-### All UCLA courses \(searchable by department\) {#all-ucla-courses-searchable-by-department}
+### All UCLA courses (searchable by department) {#all-ucla-courses-searchable-by-department}
 
 [http://www.registrar.ucla.edu/Academics/Course-Descriptions](http://www.registrar.ucla.edu/Academics/Course-Descriptions)
 

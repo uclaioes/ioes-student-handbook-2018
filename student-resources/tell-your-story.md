@@ -1,6 +1,6 @@
 # Tell Your Story
 
-What awards \(fellowships, scholarships, recognition, honors, etc.\) have you received? What work or research have you done in the environmental sector? Increasing the exposure of your successes to our broad audience creates a halo effect that creates more opportunities for all IoES students, including yourself.
+What awards (fellowships, scholarships, recognition, honors, etc.) have you received? What work or research have you done in the environmental sector? Increasing the exposure of your successes to our broad audience creates a halo effect that creates more opportunities for all IoES students, including yourself.
 
 What sets IoES apart is our focus on sharing what we discover with the world. We bring environmental science directly to the public and decision-makers who can truly make a difference, with:
 

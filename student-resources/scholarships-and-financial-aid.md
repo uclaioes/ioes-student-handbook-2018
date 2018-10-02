@@ -19,13 +19,13 @@ https://www.ioes.ucla.edu/envisci/scholarships/
 
 UCLA offers a variety of financial aid options to students, including grants, fee waivers, scholarships, work-study, subsidized and unsubsidized loans. More information on [UCLA financial aid can be found here](http://www.financialaid.ucla.edu/).
 
-Eligibility for most forms of financial aid requires the filing of a Free Application for Federal Student Aid \(FAFSA\). You can [file a FAFSA here](https://fafsa.ed.gov/).
+Eligibility for most forms of financial aid requires the filing of a Free Application for Federal Student Aid (FAFSA). You can [file a FAFSA here](https://fafsa.ed.gov/).
 
 There are thousands of scholarships available to students. The sheer number of scholarships and eligibility requirements can be overwhelming. Luckily, UCLA has an office dedicated to helping students find scholarships – [the Scholarship Resource Center](http://www.scholarshipcenter.ucla.edu/).
 
 ## UCLA Scholarship Resource Center {#ucla-scholarship-resource-center}
 
-The Scholarship Resource Center \(SRC\) was established at UCLA in 1996 to provide scholarship information, resources, and support services to all UCLA students, regardless of financial eligibility. It offers free resources to help you find scholarships:
+The Scholarship Resource Center (SRC) was established at UCLA in 1996 to provide scholarship information, resources, and support services to all UCLA students, regardless of financial eligibility. It offers free resources to help you find scholarships:
 
 * Departmental Scholarships
 * UCLA Scholarships
@@ -43,7 +43,7 @@ It offers free resources to help students apply for scholarships:
 * Workshops, such as How to Find Scholarships, Writing Personal Statements, How to Get Letters of Recommendation, and others
 
 223 Covel Commons  
-\(310\) 206-2875  
+(310) 206-2875  
 [http://www.ugeducation.ucla.edu/src/](http://www.ugeducation.ucla.edu/src/)
 
 SRC hours are 11:00 a.m. to 6:00 p.m. during the academic year and 12:00 p.m. to 5:00 p.m. during the summer.
