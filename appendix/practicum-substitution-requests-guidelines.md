@@ -4,7 +4,7 @@
 
 1. Students wishing to pursue an independent project for the practicum must enroll in Environment 180A in fall quarter of the academic year in which you will graduate. There is no substitute available for 180A. This is a stand-alone course that provides a variety of important skills that are not provided elsewhere.
 2. You must be in good academic standing, and have a minimum GPA of 3.0 or better in the major.
-3. You must submit a satisfactory prospectus (proposal of your project) to the IoES faculty committee and to your proposed advisor by \[date varies based on date group projects will be assigned\]. The prospectus should be 2-3 pages with references, and include the following components:
+3. You must submit a satisfactory prospectus (proposal of your project) to the IoES faculty committee and to your proposed advisor by [date varies based on date group projects will be assigned]. The prospectus should be 2-3 pages with references, and include the following components:
    1. Background: What is the motivation and context for the project? Place the problem in its broader scientific, environmental, and policy (if applicable) context, and include a summary of what is known about the problem already.
    2. Explain who the audience is: Who will find this project important? What agency or group would be interested in the project results?
    3. Clearly state your objectives. What question are you asking?
@@ -24,7 +24,7 @@ Deadlines and important information for pursuing an independent project for the 
 
 **Prospectus Deadline**:
 
-You will need to have your prospectus document completed by \[the week that group projects are assigned\]. The deadline to submit a final, polished prospectus to the faculty committee of the IoES will be the end of \[the week that group projects are assigned\] and you must secure a faculty advisor by that time. This is accomplished much more easily with a strong prospectus. Email a copy to rdieckmann@ioe.ucla.edu to distribute to the faculty committee.
+You will need to have your prospectus document completed by [the week that group projects are assigned]. The deadline to submit a final, polished prospectus to the faculty committee of the IoES will be the end of [the week that group projects are assigned] and you must secure a faculty advisor by that time. This is accomplished much more easily with a strong prospectus. Email a copy to rdieckmann@ioe.ucla.edu to distribute to the faculty committee.
 
 **Contract Course Deadline**: Friday of week two (winter & spring)
 
