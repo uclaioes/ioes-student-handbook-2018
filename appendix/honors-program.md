@@ -2,7 +2,7 @@
 
 The honors program provides exceptional students an opportunity for advanced research and study, under the guidance of a faculty member, that leads to the completion of an honors thesis or research project. To qualify for graduation with honors, students must (1) complete all requirements for the major, (2) have a cumulative grade-point average of 3.5 or better in upper-division coursework in the major and an overall GPA of 3.0 or better, (3) complete at least 8 units of Environment 198 taken over at least two terms, and (4) produce a completed satisfactory honors thesis. The honors thesis or research project is in addition to the requirement of the completed practicum in environmental science project. Contact the student affairs officer for further information.
 
-## Guidelines for Environmental Science Departmental Honors Program {#guidelines-for-environmental-science-departmental-honors-program}
+## [Guidelines for Environmental Science Departmental Honors Program](#guidelines-for-environmental-science-departmental-honors-program)
 
 I. REQUIREMENTS FOR ELIGIBILITY
 
@@ -68,16 +68,16 @@ Application and Prospectus Guidelines
 
 Deadlines and important information for pursuing the Environmental Science Honors Program:
 
-* Application and Prospectus Deadline:
+**Application and Prospectus Deadline**:
 
 You must submit the attached application and a satisfactory prospectus (proposal of your thesis topic) to the IoES Honors Faculty Committee and to your proposed advisor no later than two weeks before the end of the term prior to the term in which you will enroll for the first time in Environment 198. It is generally advisable to begin the project during fall or winter quarter, but students starting in spring can complete it if enrolled in Environment 198 during summer or the subsequent fall, if eligible to continue at UCLA. Submit these materials, via email attachments, to rdieckmann@ioes.ucla.edu.
 
-* Contract Course Deadline: Friday of week two (fall, winter & spring)
+**Contract Course Deadline**: Friday of week two (fall, winter & spring)
 
 Upon acceptance to the Environmental Science Departmental Honors Program, you will need to submit a copy of the Environment 198 enrollment contract signed by your project advisor at the beginning (or earlier) of each quarter for which you will enroll in Environment 198. The strict deadline for contract course enrollment is before the end of week 2 of each quarter in which you will enroll. You will create the Environment 198 course on your MyUCLA site, by clicking on “contract courses” and following the step-by-step instructions found there. The 198 course is variable units per quarter, with a mandatory grade basis (not P/NP). You will need to submit a course contract to enroll in the 198 units for each quarter prior to completing the project. Bring the contract in person to the IoES SAO (Royce Dieckmann) in Life Science 2308.
 
-* PRACTICUM VS. HONORS: An independent practicum project is NOT a departmental honors project. The two are separate, and completing the Departmental Honors Program does not exempt one from, or substitute for, the Senior Practicum.
-* ALTERNATIVES: Any student contemplating pursuing the Honors Program with faculty outside of UCLA or that will take place at another institution must consult with and gain the prior written approval of the IoES Faculty Honors Committee prior to undertaking any such project.
+**PRACTICUM VS. HONORS**: An independent practicum project is NOT a departmental honors project. The two are separate, and completing the Departmental Honors Program does not exempt one from, or substitute for, the Senior Practicum.
+**ALTERNATIVES**: Any student contemplating pursuing the Honors Program with faculty outside of UCLA or that will take place at another institution must consult with and gain the prior written approval of the IoES Faculty Honors Committee prior to undertaking any such project.
 
 Questions: Email Royce Dieckmann, IoES SAO at rdieckmann@ioes.ucla.edu
 
@@ -85,17 +85,17 @@ Questions: Email Royce Dieckmann, IoES SAO at rdieckmann@ioes.ucla.edu
 
 Complete this application and submit it to the Environmental Science Honors Committee by emailing to rdieckmann@ioes.ucla.edu.
 
-**Name**:_\*\*\_\*\*\_
+**Name**: ___
 
-**SID\#\_**
+**SID# ___**
 
-**Date\_**
+**Date ___**
 
-**Minor/Concentration**:**\_**
+**Minor/Concentration**: **___**
 
-As of **\_\_**(date), I have completed **\_**(number of units) of university-level course work. My cumulative GPA in this course work is **\_**(GPA).
+As of **___**(date), I have completed **___**(number of units) of university-level course work. My cumulative GPA in this course work is **___**(GPA).
 
-My cumulative GPA in courses required for the Major (but excluding those courses listed as preparation for the Major) is: _\*\*\_\_\*\*\_ (GPA)
+My cumulative GPA in courses required for the Major (but excluding those courses listed as preparation for the Major) is: **_____** (GPA)
 
 **Proposed Title of Honors Thesis**:
 
