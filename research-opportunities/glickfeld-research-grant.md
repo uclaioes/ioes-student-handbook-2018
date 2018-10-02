@@ -15,25 +15,25 @@ Faculty will be more willing to take the supported student on as a research assi
 
 Junior or sophomore awardees may have the opportunity to continue with their project which could result in an Honor’s Thesis and/or publication.
 
-Qualifications:
+## Qualifications:
 
-    Must be eligible to work in the U.S.
-    Students in all years of the program are eligible to apply but ideally should have three terms (can include summer) remaining prior to graduation.
+- Must be eligible to work in the U.S.
+- Students in all years of the program are eligible to apply but ideally should have three terms (can include summer) remaining prior to graduation.
 
-Who Should Apply?
+## Who Should Apply?
 
-Environmental Science B.S. Majors …
+Environmental Science B.S. Majors…
 
-    who are currently doing research and would like to continue for the next year.
-    who want to do research and know what they want to do and with which faculty member they want to work.
-    who want to do research but need some guidance about where to go and who to ask.
-    who want to do research and have an idea about what they want to do, but need guidance on how to get started.
+- who are currently doing research and would like to continue for the next year.
+- who want to do research and know what they want to do and with which faculty member they want to work.
+- who want to do research but need some guidance about where to go and who to ask.
+- who want to do research and have an idea about what they want to do, but need guidance on how to get started.
 
 In short, ANY ES Major who has a desire to get involved in research can apply! Don’t be shy – your goals and desire to participate in research will be major factors in our decision!
 
 Application period is in spring to begin research in either summer or fall the following academic year.
 
-To Apply:
+## To Apply:
 
 Send an email to rdieckmann@ioes.ucla.edu with the following information in an attached document (word or pdf preferred):
 
@@ -48,6 +48,6 @@ Send an email to rdieckmann@ioes.ucla.edu with the following information in an a
 
 4. Tell us about your specific research question and goals. Please include your reasons for wanting to pursue a research position. (600 words max.)
 
-Application deadline: TBD for 2019. 
+## Application deadline: TBD for 2019. 
 
 Questions? Email Royce Dieckmann, IoES SAO: rdieckmann@ioes.ucla.edu

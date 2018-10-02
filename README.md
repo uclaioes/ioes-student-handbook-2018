@@ -42,6 +42,7 @@
 * [Research Opportunities](research-opportunities/README.md)
   * [Beyond the Practicum](research-opportunities/beyond-the-practicum.md)
   * [Honors in Environmental Science](research-opportunities/honors-in-environmental-science.md)
+  * [Glickfeld Excellence in Environmental Research Grant](research-opportunities/glickfeld-research-grant.md)  
 * [Getting Involved](getting-involved/README.md)
   * [On Campus](getting-involved/on-campus.md)
   * [Off Campus](getting-involved/off-campus.md)
