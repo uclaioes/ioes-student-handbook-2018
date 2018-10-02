@@ -8,7 +8,7 @@ Lastly, as someone who has worked for the federal government, for non-profit org
 
 Best of luck on what will surely be a tortuous journey. A straight line might be the shortest path, but rarely is it the most interesting path.
 
-![Photo of Peter Kareiva, director IoES](.gitbook/assets/peter-kareiva-250w.jpg)
+![Photo of Peter Kareiva, director IoES](/assets/peter-kareiva-250w.jpg)
 
 Peter Kareiva, director  
 UCLA Institute of the Environment and Sustainability
