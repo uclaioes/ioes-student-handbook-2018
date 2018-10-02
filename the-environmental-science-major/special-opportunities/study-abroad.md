@@ -2,7 +2,7 @@
 
 The IoES encourages students to explore the many opportunities for study abroad available through UCLA and other campuses and organizations.
 
-## UC Education Abroad Program {#uc-education-abroad-program}
+## [UC Education Abroad Program](#uc-education-abroad-program)
 
 UC EAP is a UC-systemwide Education Abroad Program that specializes in semester or year-long study abroad at foreign universities. You can choose from hundreds of universities located in dozens of countries across the globe.
 
@@ -10,13 +10,13 @@ When choosing where to go, consider what is unique, special, and intriguing to y
 
 For semester-length UC EAP programs, you will go, usually alone, to the foreign university and take the same courses with the resident population of students. It is an immersive experience in the culture, climate, and people of the location you choose. This type of cultural immersion is exciting and often a once-in-a-lifetime opportunity, but it also requires maturity on the part of the participant as you will be away from nearly everything familiar to you for many months.
 
-Because the Practicum occurs throughout senior year, we recommend that students plan for semester abroad programs like EAP to take place either during the Junior year, or in fall of a 5th year \(13th semester\) if that is viable for you. Fall is often favorable because you trade a fall quarter for a fall semester; spring semesters straddle the UCLA winter and spring quarter. However, this should be only one factor in your decision, which should also include the climate/season, finances, and other considerations.
+Because the Practicum occurs throughout senior year, we recommend that students plan for semester abroad programs like EAP to take place either during the Junior year, or in fall of a 5th year (13th semester) if that is viable for you. Fall is often favorable because you trade a fall quarter for a fall semester; spring semesters straddle the UCLA winter and spring quarter. However, this should be only one factor in your decision, which should also include the climate/season, finances, and other considerations.
 
 [https://ieo.ucla.edu/uceap](https://ieo.ucla.edu/uceap)
 
 [http://uc.eap.ucop.edu/](http://uc.eap.ucop.edu/)
 
-## Travel Study {#travel-study}
+## [Travel Study](#travel-study)
 
 Travel Study, like EAP, offers students a unique experience, but usually these programs are shorter, focus on a specific site or topic of study in a region, and the majority of students and instructors will be from U.S. universities. Programs as short as one week or as long as a semester are available through travel study programs.
 
@@ -34,7 +34,7 @@ Field studies in a foreign place
 
 [http://www.fieldstudies.org/](http://www.fieldstudies.org/)
 
-## UC Natural Reserve System: California Ecology and Conservation Field Course {#uc-natural-reserve-system-california-ecology-and-conservation-field-course}
+## [UC Natural Reserve System: California Ecology and Conservation Field Course](#uc-natural-reserve-system-california-ecology-and-conservation-field-course)
 
 The UC Natural Reserve System is a network of protected natural areas throughout California. Its 39 sites include more than 756,000 acres, making it the largest university-administered reserve system in the world. Most major state ecosystems are represented, from coastal tidepools to inland deserts, and lush wetlands to redwood forests. The reserves also serve as a gateway to more than a million acres of public lands. Founded in 1965 to provide undisturbed environments for research, education, and public service, the Natural Reserve System contributes to the understanding and wise stewardship of the earth.
 
