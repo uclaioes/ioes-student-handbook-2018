@@ -1,8 +1,8 @@
 # Beyond the Practicum
 
-All environmental science students participate in the Senior Practicum, the year-long capstone program that pairs teams of seniors with real-world clients to deliver science-based solutions for pressing environmental issues \(see, Practicum\). As exceptional as that experience is, some students choose to go beyond the Practicum by getting directly involved in research being conducted by UCLA’s world-class faculty. We encourage you to explore different possibilities available on campus.
+All environmental science students participate in the Senior Practicum, the year-long capstone program that pairs teams of seniors with real-world clients to deliver science-based solutions for pressing environmental issues (see, Practicum). As exceptional as that experience is, some students choose to go beyond the Practicum by getting directly involved in research being conducted by UCLA’s world-class faculty. We encourage you to explore different possibilities available on campus.
 
-A multitude of research possibilities are open to you as undergraduates, but to get involved takes some initiative and legwork. Often, professors and researchers doing work that would be of interest to you have smaller labs than those in more traditional disciplines like biology, psychology, or medical fields. The PIs \(Primary Investigators, or lead faculty members\) are interested in mentoring students who have some background in the field already, and this generally means students who have taken their course\(s\). First and second year students should not despair, however! There are programs at UCLA that are tailored to getting you involved in research.
+A multitude of research possibilities are open to you as undergraduates, but to get involved takes some initiative and legwork. Often, professors and researchers doing work that would be of interest to you have smaller labs than those in more traditional disciplines like biology, psychology, or medical fields. The PIs (Primary Investigators, or lead faculty members) are interested in mentoring students who have some background in the field already, and this generally means students who have taken their course(s). First and second year students should not despair, however! There are programs at UCLA that are tailored to getting you involved in research.
 
 ## Undergraduate Research Centers {#undergraduate-research-centers}
 
@@ -34,13 +34,13 @@ Not sure where to start? Take a look at the [IoES research centers](https://www.
 
 ## Sustainability Action Research {#sustainability-action-research}
 
-For a more student-centered research opportunity, the Sustainability Action Research \(SAR\) program might be a great fit. SAR is a student-initiated, student-designed, and student-facilitated research program offered through IoES. In the winter and spring quarters of each academic year, students on SAR teams are partnered with a campus stakeholder to research, rethink, investigate, and tackle UCLA’s greatest sustainability issues. Applications are due in the fall.
+For a more student-centered research opportunity, the Sustainability Action Research (SAR) program might be a great fit. SAR is a student-initiated, student-designed, and student-facilitated research program offered through IoES. In the winter and spring quarters of each academic year, students on SAR teams are partnered with a campus stakeholder to research, rethink, investigate, and tackle UCLA’s greatest sustainability issues. Applications are due in the fall.
 
 [https://www.ioes.ucla.edu/sar/](https://www.ioes.ucla.edu/sar/)
 
 ## 99/199 Research Units {#99-199-research-units}
 
-Students pursuing lower-division research opportunities typically do so through the Undergraduate Research Centers and enroll in Student Research Program \(SRP\) 99 units with the assistance of the Undergraduate Research Center \(URC\).
+Students pursuing lower-division research opportunities typically do so through the Undergraduate Research Centers and enroll in Student Research Program (SRP) 99 units with the assistance of the Undergraduate Research Center (URC).
 
 Students pursuing research in their field of study, such as with an IoES faculty researcher, can do so either on a volunteer basis or it may be useful to you as a student to pursue an independent study course, particularly if you are pursuing your own original research under the guidance of a faculty member or have a significant role in the research being undertaken by the faculty member. In these cases, you can enroll in Environment 199 - Independent Study as a contract course. In consultation with the faculty advisor and the department SAO, you will design the course of study and create a unique contract course through the Contract Course function on MyUCLA. This contract is then signed by the faculty member and then brought to the SAO Royce Dieckmann to approve the contract and enroll you in the course. This should be done no later than the end of the 2nd week of the quarter in which the contract course will be taken.
 
