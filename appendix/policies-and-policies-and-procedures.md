@@ -4,7 +4,7 @@ Below you will find the College Academic Counseling website, which has informati
 
 [http://cac.ucla.edu/](http://cac.ucla.edu/)
 
-## Informational Guides {#informational-guides}
+## [Informational Guides](#informational-guides)
 
 Calculating GPA
 
