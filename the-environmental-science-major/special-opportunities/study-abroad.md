@@ -12,9 +12,9 @@ For semester-length UC EAP programs, you will go, usually alone, to the foreign 
 
 Because the Practicum occurs throughout senior year, we recommend that students plan for semester abroad programs like EAP to take place either during the Junior year, or in fall of a 5th year (13th semester) if that is viable for you. Fall is often favorable because you trade a fall quarter for a fall semester; spring semesters straddle the UCLA winter and spring quarter. However, this should be only one factor in your decision, which should also include the climate/season, finances, and other considerations.
 
-[https://ieo.ucla.edu/uceap](https://ieo.ucla.edu/uceap)
+- [https://ieo.ucla.edu/uceap](https://ieo.ucla.edu/uceap)
 
-[http://uc.eap.ucop.edu/](http://uc.eap.ucop.edu/)
+- [http://uc.eap.ucop.edu/](http://uc.eap.ucop.edu/)
 
 ## [Travel Study](#travel-study)
 
@@ -24,15 +24,15 @@ UCLA offers some in the summer, although at the moment we do not have any enviro
 
 Students should check with counselors both in the department appropriate to the field of study and in UC EAP to help determine transferability of any non-UC program.
 
-[https://ieo.ucla.edu/travelstudy](https://ieo.ucla.edu/travelstudy)
+- [https://ieo.ucla.edu/travelstudy](https://ieo.ucla.edu/travelstudy)
 
 Field studies in a foreign place
 
-[https://studyabroad.ucdavis.edu/programs/summerabroad/index.html](https://studyabroad.ucdavis.edu/programs/summerabroad/index.html)
+- [https://studyabroad.ucdavis.edu/programs/summerabroad/index.html](https://studyabroad.ucdavis.edu/programs/summerabroad/index.html)
 
-[http://www.wildlandsstudies.com/](http://www.wildlandsstudies.com/)
+- [http://www.wildlandsstudies.com/](http://www.wildlandsstudies.com/)
 
-[http://www.fieldstudies.org/](http://www.fieldstudies.org/)
+- [http://www.fieldstudies.org/](http://www.fieldstudies.org/)
 
 ## [UC Natural Reserve System: California Ecology and Conservation Field Course](#uc-natural-reserve-system-california-ecology-and-conservation-field-course)
 
@@ -42,5 +42,5 @@ The California Ecology and Conservation course brings together 27 students from 
 
 California Ecology and Conservation is open to all University of California undergraduates in good standing with their home campus who have at least a 2.5 GPA and have passed an introductory ecology or biology course prior to applying for the program. Students receive 19 units of credit for the term; consult with your major and/or minor department for applicability of credit for your program. The program is offered in spring, summer, and fall.
 
-[http://www.ucnrs.org/teaching/cec.html](http://www.ucnrs.org/teaching/cec.html)
+- [http://www.ucnrs.org/teaching/cec.html](http://www.ucnrs.org/teaching/cec.html)
 

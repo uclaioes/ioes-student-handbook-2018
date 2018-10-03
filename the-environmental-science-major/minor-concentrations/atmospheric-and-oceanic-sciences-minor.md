@@ -1,18 +1,16 @@
 # Atmospheric and Oceanic Sciences Minor
 
-## [Atmospheric and Oceanic Sciences minor](#atmospheric-oceanic-sciences)
-
-### [About the Minor](#about-the-minor-1)
+## [About the Minor](#about-the-minor-1)
 
 [Department of Atmospheric and Oceanic Sciences](https://www.atmos.ucla.edu/)
 
 The Atmospheric and Oceanic Sciences minor provides a formal vehicle for students specializing in other science fields to pursue interest in the atmospheric and oceanic environment. It is designed to be flexible, recognizing that many topics in this field cross traditional disciplinary boundaries. Typical coursework includes climatology, air pollution and particulate matter, meteorology, oceanography, atmospheric thermodynamics, and a wide selection of related options from Mathematics, Physics, Biology, and other fields.
 
-### [Where are they now?](#where-are-they-now)
+## [Where are they now?](#where-are-they-now)
 
 Environmental science majors who graduated with this minor are now:
 
-#### Jobs
+### Jobs
 
 * Field Assistant - Resource Conservation District of the Santa Monica Mountains
 * Senior Research Associate - Pacific Institute
@@ -21,13 +19,13 @@ Environmental science majors who graduated with this minor are now:
 * Watershed Intern - John L. Hunter and Assoc. (Environmental Consulting)
 * Environmental Analyst and AERMOD/GIS Specialist, SWAPE (Environmental Consulting)
 
-#### Graduate Programs
+### Graduate Programs
 
 * MA in International Environmental Policy - Monterey Institute
 * MPH - Columbia University
 * Ph.D. in Civil and Environmental Engineering - Duke University
 
-### [Contact Information/To Declare the Minor](#contact-information-to-declare-the-minor)
+## [Contact Information/To Declare the Minor](#contact-information-to-declare-the-minor)
 
 **Kimberly Perez**  
 Student Affairs Officer  
@@ -42,7 +40,7 @@ To enter the minor, students must have an overall GPA of 2.0 or better and must 
 
 Student in the minor are encouraged to join the AOS undergraduate mailing list. Simply make the request to A&OS Student Affairs Officer, Kimberly Perez, by emailing [kperez@atmos.ucla.edu](mailto:kperez@atmos.ucla.edu)
 
-### [Course Requirements](#course-requirements)
+## [Course Requirements](#course-requirements)
 
 * Mathematics 3C or 32A
 * Physics 6C or 1C or Chemistry 14C or 30A
@@ -65,7 +63,7 @@ One course may be taken on a Pass/No Pass basis; all other minor courses must be
 
 ## [Course Descriptions](#course-descriptions): 
 
-**Atmospheric & Oceanic Sciences**
+### Atmospheric & Oceanic Sciences
 
 1\. Climate Change: From Puzzles to Policy. (4) Lecture, three hours; discussion, one hour. Overview of fundamentals of Earth’s climate, including greenhouse effect, water and chemical cycles, outstanding features of atmospheric and ocean circulation, and feedback between different system components. Exciting and contentious scientific puzzles of climate system, including causes of ice ages, greenhouse warming, and el niño. Importance of climate science and prediction to society, with emphasis on science’s role in identifying, qualifying, and solving environmental problems such as ozone hole and greenhouse warming. P/NP or letter grading.
 
@@ -115,7 +113,7 @@ C170. Introduction to Solar System Plasmas. (4) Lecture, three hours; discussion
 
 186\. Operational Meteorology. (2) Laboratory, six hours. Requisite: course C110. Limited to junior/senior Atmospheric, Oceanic, and Environmental Sciences majors. Daily contact with weather data and forecasting, satellite and radar data. Introduction to weather forecasting for aviation, air pollution, marine weather, fire weather, and public use. Includes daily weather map discussions and visits to observing, radiosonde, and radar installations. Letter grading.
 
-**Chemistry**
+### Chemistry
 
 103\. Environmental Chemistry. (4) Lecture, four hours; discussion, one hour. Requisites: courses 30B, 30BL, 110A, 153A (or 153AH), 153L. Chemical aspects of air and water pollution, solid waste disposal, energy resources, and pesticide effects. Chemical reactions in environment and effect of chemical processes on environment. P/NP or letter grading.
 
@@ -129,11 +127,11 @@ C113B. Physical Chemistry: Introduction to Molecular Spectroscopy. (4) Lecture, 
 
 114\. Physical Chemistry Laboratory. (5) Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30AL, 110A, and 113A, with grades of C- or better. Enforced corequisite: course 110B or C113B. Lectures include techniques of physical measurement, error analysis and statistics, special topics. Laboratory includes spectroscopy, thermodynamic measurements, and chemical dynamics. P/NP or letter grading.
 
-**Earth, Planetary, and Space Science**
+### Earth, Planetary, and Space Science
 
 15\. Blue Planet: Introduction to Oceanography. (5) Lecture, three hours; laboratory, two hours. Not open for credit to students with credit for or currently enrolled in Ecology and Evolutionary Biology 25. General introduction to geological, physical, chemical, and biological processes and history of Earth’s global ocean system. P/NP or letter grading.
 
-**Mathematics**
+### Mathematics
 
 115A-115B. Linear Algebra. (5-4) P/NP or letter grading. 115A. Lecture, three hours; discussion, two hours. Requisite: course 33A. Techniques of proof, abstract vector spaces, linear transformations, and matrices; determinants; inner product spaces; eigenvector theory.
 
@@ -151,7 +149,7 @@ C113B. Physical Chemistry: Introduction to Molecular Spectroscopy. (4) Lecture, 
 
 170B. Probability Theory. (4) Lecture, three hours; discussion, one hour. Enforced requisite: course 170A. Convergence in distribution, normal approximation, laws of large numbers, Poisson processes, random walks. P/NP or letter grading.
 
-**Ecology and Evolutionary Biology**
+### Ecology and Evolutionary Biology
 
 109\. Introduction to Marine Science. (4) Lecture, three hours; discussion, one hour. Requisite: Life Sciences 1. Strongly recommended for prospective Marine Biology Quarter students. Introduction to physical and biological world of 70 percent of planet: oceans. Designed to be integrative, with focus on geological evolution of seas, physical and chemical properties of water, and how these abiotic processes shape ecology and evolution of marine organisms and environments. Letter grading.
 
@@ -165,17 +163,23 @@ C119A. Mathematical and Computational Modeling in Ecology. (4) Lecture, three ho
 
 148\. Biology of Marine Plants. (4) Five-week intensive course. Lecture, five hours; laboratory, 15 hours. Requisites: Chemistry 14A, 14B, and 14BL, or 20A, 20B, 20L, and 30AL, Life Sciences 1, 3, 23L. Introduction to general biology of marine algae, including basics of structure reproduction, life histories, systematics, and introduction to physiology and ecology of marine algae. Techniques in culture and laboratory investigation and utilization of algae. Given off campus at marine science center. Letter grading.
 
-**Physics**
+### Physics
 
-**110A. Electricity and Magnetism**. (4) Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 131, Mathematics 32B, 33A, 33B. Electrostatics and magnetostatics. P/NP or letter grading.
+#### 110A. Electricity and Magnetism 4) 
+Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 131, Mathematics 32B, 33A, 33B. Electrostatics and magnetostatics. P/NP or letter grading.
 
-**110B. Electricity and Magnetism**. (4) Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 110A, Mathematics 32B, 33A, 33B. Faraday law and Maxwell equations. Propagation of electromagnetic radiation. Multipole radiation and radiation from an accelerated charge. Special theory of relativity. P/NP or letter grading.
+#### 110B. Electricity and Magnetism (4) 
+Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 110A, Mathematics 32B, 33A, 33B. Faraday law and Maxwell equations. Propagation of electromagnetic radiation. Multipole radiation and radiation from an accelerated charge. Special theory of relativity. P/NP or letter grading.
 
-**112\. Thermodynamics**. (4) Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32B, 33A, 33B. Corequisite: course 115B. Fundamentals of thermodynamics, including first, second, and third laws. Statistical mechanical point of view and its relation to thermodynamics. Some simple applications. P/NP or letter grading.
+#### 112\. Thermodynamics. (4)
+Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32B, 33A, 33B. Corequisite: course 115B. Fundamentals of thermodynamics, including first, second, and third laws. Statistical mechanical point of view and its relation to thermodynamics. Some simple applications. P/NP or letter grading.
 
-**M122. Introduction to Plasma Electronics**. (4) (Same as Electrical Engineering M185.) Lecture, three hours; discussion, one hour; outside study, eight hours. Requisite: course 110A or Electrical Engineering 101A. Senior-level introductory course on electrodynamics of ionized gases and applications to materials processing, generation of coherent radiation and particle beams, and renewable energy sources. Letter grading.
+#### M122. Introduction to Plasma Electronics. (4) 
+(Same as Electrical Engineering M185.) Lecture, three hours; discussion, one hour; outside study, eight hours. Requisite: course 110A or Electrical Engineering 101A. Senior-level introductory course on electrodynamics of ionized gases and applications to materials processing, generation of coherent radiation and particle beams, and renewable energy sources. Letter grading.
 
-**131\. Mathematical Methods of Physics.** (4) Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32B, 33A, 33B. Vectors and fields in space, linear transformations, matrices, and operators; Fourier series and integrals. P/NP or letter grading.
+#### 131\. Mathematical Methods of Physics. (4)
+Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), Mathematics 32B, 33A, 33B. Vectors and fields in space, linear transformations, matrices, and operators; Fourier series and integrals. P/NP or letter grading.
 
-**132\. Mathematical Methods of Physics**. (4) Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 131, Mathematics 32B, 33A, 33B. Functions of a complex variable, including Riemann surfaces, analytic functions, Cauchy theorem and formula, Taylor and Laurent series, calculus of residues, and Laplace transforms. P/NP or letter grading.
+#### 132\. Mathematical Methods of Physics. (4)
+Lecture, three hours; discussion, one hour. Requisites: courses 1A, 1B, and 1C (or 1AH, 1BH, and 1CH), 131, Mathematics 32B, 33A, 33B. Functions of a complex variable, including Riemann surfaces, analytic functions, Cauchy theorem and formula, Taylor and Laurent series, calculus of residues, and Laplace transforms. P/NP or letter grading.
 
