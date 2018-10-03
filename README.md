@@ -1,3 +1,5 @@
+![Logo](assets/ioes-logo.png)
+
 # IoES Student Handbook Version 2.0
 
 ## Getting your degree in Environmental Science at UCLA
@@ -8,7 +10,6 @@
 
 # Table of contents
 
-* [IoES Student Handbook](README.md)
 * [Welcome from director](welcome-from-director.md)
 * [About the IoES](about-the-ioes.md)
 * [About the Revised Environmental Science Major](the-environmental-science-major/major-revision.md)
