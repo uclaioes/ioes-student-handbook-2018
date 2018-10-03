@@ -16,13 +16,13 @@ To join, simply create an account and join “IoES undergraduate advising.” If
 
 - [https://piazza.com/ucla/other/ioesundergraduateadvising](https://piazza.com/ucla/other/ioesundergraduateadvising)
 
-## [Facebook}(#facebook)
+## [Facebook](#facebook)
 
 We maintain the Environmental Science Facebook group exclusively for current students, alumni, and faculty. Keep in touch with classmates, network with alumni, and post useful and interesting messages for your peers and colleagues:
 
 - [https://www.facebook.com/groups/141172551155/](https://www.facebook.com/groups/141172551155/)
 
-## [LinkedIn}(#linkedin)
+## [LinkedIn](#linkedin)
 
 Join the IoES LinkedIn and network with alumni, faculty, and others in the environmental fields. It’s never too early to start working on your professional network. It might even help you get your next (or first) job.
 
