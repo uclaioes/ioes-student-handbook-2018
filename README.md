@@ -12,7 +12,7 @@
 
 * [Welcome from director](welcome-from-director.md)
 * [About the IoES](about-the-ioes.md)
-* [About the Revised Environmental Science Major](the-environmental-science-major/major-revision.md)
+* [About the Revised Environmental Science Major](major-revision.md)
 * [Student Resources](student-resources/README.md)
   * [People](student-resources/people.md)
   * [Tell Your Story](student-resources/tell-your-story.md)
