@@ -1,8 +1,8 @@
 # Geography/Environmental Studies Minor
 
-## Geography/Environmental Studies Minor {#geography-environmental-studies-minor}
+## [Geography/Environmental Studies Minor](#geography-environmental-studies-minor)
 
-### About the Minor {#about-the-minor-3}
+### [About the Minor](#about-the-minor-3)
 
 [Department of Geography](http://www.geog.ucla.edu/)
 
