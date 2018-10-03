@@ -1,6 +1,6 @@
 # Environmental Systems and Society Minor
 
-## About the Minor {#about-the-minor-2}
+## [About the Minor](#about-the-minor-2)
 
 [Institute of the Environment and Sustainability](https://www.ioes.ucla.edu/)
 
