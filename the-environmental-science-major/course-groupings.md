@@ -1,11 +1,11 @@
-## Course Groupings
+# Course Groupings
 
 The following groupings of courses are meant to help you plan your major courses based upon your interests and goals. 
 The courses are grouped by topic but across departmental boundaries. These groupings are meant to be suggestive of possible pathways and helpful for planning, but they should not be seen as prescriptive. 
 
 These courses will complement (and in some cases overlap) courses in the minor/concentration of your interest. 
 
-### ATMOSPHERIC SCIENCE
+## ATMOSPHERIC SCIENCE
 
 - A&O 101 -  Fundamentals of Atmospheric Dynamics and Thermodynamics
 - A&O 141 – Introduction to Atmospheric Chemistry and Air Pollution
@@ -14,7 +14,7 @@ These courses will complement (and in some cases overlap) courses in the minor/c
 - EPSS 153 – Oceans and Atmospheres
 - GEOG 105 - Hydrology
 
-### AIR QUALITY & AIR POLLUTION
+## AIR QUALITY & AIR POLLUTION
 
 - A&O 104 – Fundamentals of Air and Water Pollution
 - A&O 141 – Introduction to Atmospheric Chemistry and Air Pollution
@@ -22,7 +22,7 @@ These courses will complement (and in some cases overlap) courses in the minor/c
 - C125 – Atmospheric Transport and Transformations of Airborne Chemicals
 - C152D – Properties and Measurement of Airborne Particles
 
-### CLIMATE SCIENCE
+## CLIMATE SCIENCE
 
 - A&O 102 - Climate Change and Climate Modeling
 - A&O 112 – Climate Change Assessment
@@ -31,7 +31,7 @@ These courses will complement (and in some cases overlap) courses in the minor/c
 - GEOG M106 – Applied Climatology
 - GEOG M131 - Environmental Change
 
-### ECOLOGY & CONSERVATION
+## ECOLOGY & CONSERVATION
 
 - EEB 100 – Introduction to Ecology and Behavior
 - EEB 109 – Introduction to Marine Science
@@ -44,7 +44,7 @@ These courses will complement (and in some cases overlap) courses in the minor/c
 - GEOG 113 – Humid Tropics
 - GEOG 135 – African Ecology and Development
 
-### ENVIRONMENTAL MANAGEMENT, GREEN BUSINESS & ECONOMICS
+## ENVIRONMENTAL MANAGEMENT, GREEN BUSINESS & ECONOMICS
 
 - 134 – Environmental Economics
 - M135 – California Sustainable Development: Economic Perspective
@@ -57,7 +57,7 @@ These courses will complement (and in some cases overlap) courses in the minor/c
 - 135 – African Ecology and Development
 - PUBPOL C115 – Environmental and Resource Economics and Policy
 
-### ENVIRONMENTAL POLICY, REGULATION, & LAW
+## ENVIRONMENTAL POLICY, REGULATION, & LAW
 
 - M132 – Environmentalism: Past, Present, and Future
 - ENV 140 – Foundations of Environmental Policy and Regulation
@@ -68,7 +68,7 @@ These courses will complement (and in some cases overlap) courses in the minor/c
 - 166 – Leadership in Water Management
 - M167 – Environmental Justice Through Multiple Lenses
 
-### ENVIRONMENTAL JUSTICE & URBAN ENVIRONMENTS
+## ENVIRONMENTAL JUSTICE & URBAN ENVIRONMENTS
 
 - ENV M167 – Environmental Justice Through Multiple Lenses
 - GEOG M128 – Global Environment and Development: Problems and Issues
@@ -78,7 +78,7 @@ These courses will complement (and in some cases overlap) courses in the minor/c
 - GEOG M153 – Past Societies and Their Lessons for Our Own Future
 - GEOG 156 – Metropolitan LA
 
-### OCEANOGRAPHY
+## OCEANOGRAPHY
 
 - A&O 103 - Physical Oceanography
 - A&O M105 – Introduction to Chemical Oceanography
@@ -87,7 +87,7 @@ These courses will complement (and in some cases overlap) courses in the minor/c
 - ENV 166 - Leadership in Water Management
 - EPSS  153 – Oceans and Atmospheres
 
-### WATER TREATMENT/POLLUTION
+## WATER TREATMENT/POLLUTION
 
 - A&O 104 – Fundamentals of Air and Water Pollution
 - A&O M105 – Introduction to Chemical Oceanography
@@ -99,7 +99,7 @@ These courses will complement (and in some cases overlap) courses in the minor/c
 - EHS C164 – Fate and Transport of Organic Chemicals in the Aquatic Environment
 - GEOG 105 - Hydrology
 
-### EARTH, SOILS, & NATURAL RESOURCES
+## EARTH, SOILS, & NATURAL RESOURCES
 
 - EPSS 101 – Earth’s Energy
 - EPSS C113 – Biological and Environmental Geochemistry
@@ -113,7 +113,7 @@ These courses will complement (and in some cases overlap) courses in the minor/c
 - GEOG 111 – Forest Ecosystems
 - GEOG M127 – Soils and Environment
 
-### ENVIRONMENTAL HEALTH
+## ENVIRONMENTAL HEALTH
 
 - EHS 100 – Introduction to Environmental Health
 - EHS C125 – Atmospheric Transport and Transformations of Airborne Chemicals
@@ -124,7 +124,7 @@ These courses will complement (and in some cases overlap) courses in the minor/c
 - AOS 141 – Introduction to Atmospheric Chemistry and Air Pollution
 - ChE C118 – Multimedia Environmental Assessment
 
-### SOCIETY & ENVIRONMENT
+## SOCIETY & ENVIRONMENT
 
 - EPSS 101 – Earth’s Energy
 - ENV 157 – Energy, Environment, and Development
