@@ -32,7 +32,7 @@ Environmental science majors who graduated with this minor are now:
 * MS in Civil Engineering - Stanford & Fulbright Scholar
 * Ph.D. in Environmental Engineering - Princeton University
 
-## [Contact Information/To Declare the Minor}(#contact-information-to-declare-the-minor-1)
+## [Contact Information/To Declare the Minor](#contact-information-to-declare-the-minor-1)
 
 To enter the minor, students must be in good academic standing (2.0 GPA or better) and file a petition in the Office of Academic and Student Affairs, 6426 Boelter Hall. Applications are processed in batches, so expect a delay between the date you apply and the minor taking effect.
 
