@@ -1,6 +1,6 @@
 # Conservation Biology Minor
 
-## About the Minor/Concentration {#about-the-minor-concentration-0}
+## [About the Minor/Concentration](#about-the-minor-concentration-0)
 
 [Department of Ecology and Evolutionary Biology](https://www.eeb.ucla.edu/)
 
@@ -8,28 +8,28 @@ The Conservation Biology minor is designed for students who wish to augment thei
 
 Students are encouraged to join the EEB undergraduate email list.
 
-## Where are they now? {#where-are-they-now-0}
+## [Where are they now?](#where-are-they-now-0)
 
 Environmental science majors who graduated with this minor are now:
 
-Jobs
+### Jobs
 
 * Marine Programs Manager - The Bay Foundation
-* Education and Development Associate - Wishtoyo Foundation \(Protection of Native American Culture/Environment\)
-* Protected Areas Management Advisor - Peace Corps \(Honduras\)
+* Education and Development Associate - Wishtoyo Foundation (Protection of Native American Culture/Environment)
+* Protected Areas Management Advisor - Peace Corps (Honduras)
 * Fisheries Research Associate - The Nature Conservancy
 * Sea Grant Fellow - Port of San Diego
 * Environmental Scientist - California Department of Water Resources
 * Field Research Assistant - Madagascar Biodiversity Partnership
 * Manager - National Parks Board, Singapore
 
-Graduate Programs:
+### Graduate Programs:
 
 * Ph.D. in Epidemiology - UNC Chapel Hill
 * MESM - UCSB Bren School of Environmental Science and Management
 * Ph.D. in Ecology and Conservation Biology - SUNY Stony Brook
 
-## Contact Information/To Declare the Minor {#contact-information-to-declare-the-minor-0}
+## [Contact Information/To Declare the Minor](#contact-information-to-declare-the-minor-0)
 
 **Jessica Angus, Jessica Gonzalez, and Kellie Marie Lavin**  
 Student Affairs Officers  
@@ -40,11 +40,11 @@ Monday-Friday, 9:00 a.m. to 12:00 p.m. and 1:00 to 3:00 p.m.
 
 Drop-In Counseling and Scheduled Appointments Available
 
-Once EEB 100 and EEB 116 \(or ENV 121\) have been completed with a grade of C or better, go to the EEB advising offices in Hershey Hall 101 during posted office hours to declare the minor in person.
+Once EEB 100 and EEB 116 (or ENV 121) have been completed with a grade of C or better, go to the EEB advising offices in Hershey Hall 101 during posted office hours to declare the minor in person.
 
 **Mailing list:** Submit a request to join the EEB undergraduate email list to [ebundergrad@lifesci.ucla.edu](mailto:ebundergrad@lifesci.ucla.edu)
 
-## Course Requirements {#course-requirements-0}
+## [Course Requirements](#course-requirements-0)
 
 Additional Preparatory Courses Required:
 
@@ -54,28 +54,28 @@ Pre-Requisites
 
 All pre-requisites for the Conservation Biology minor must be completed with a grade of "C" or better:
 
-* Life Sciences 1 \(5 units\) or Life Sciences 7A \(5 units\)
-* EE BIOL 100 \(4 units\)
-* EE BIOL 116\* \(4 units\) OR Environment 121 \(4 units\) – Choose one.
+* Life Sciences 1 (5 units) or Life Sciences 7A (5 units)
+* EE BIOL 100 (4 units)
+* EE BIOL 116\* (4 units) OR Environment 121 (4 units) – Choose one.
 * \*Students who have received credit for EE BIOL 116 cannot take Environment 121.
 
 Minor Requirements
 
-FOUR to SIX COURSES \(totaling at least 20 units\) from the following list:
+FOUR to SIX COURSES (totaling at least 20 units) from the following list:
 
-Ecology & Evolutionary Biology 100L, 101, 103, 105, 109, 109L, 111, 112, 114A, 114B, C119A, C119B, 122, 129, M131, 142, 151A, 153, 154, 155, C174, 176, 180A, 180B, any course completed as part of a Field Biology Quarter \(FBQ\) or Marine Biology Quarter \(MBQ\)
+Ecology & Evolutionary Biology 100L, 101, 103, 105, 109, 109L, 111, 112, 114A, 114B, C119A, C119B, 122, 129, M131, 142, 151A, 153, 154, 155, C174, 176, 180A, 180B, any course completed as part of a Field Biology Quarter (FBQ) or Marine Biology Quarter (MBQ)
 
 Some courses from outside the department may be petitioned to count toward the minor electives, including a number of Geography courses. Please consult with the Ecology and Evolutionary Biology counseling staff for the most recent updates.
 
-Please note that EE Biol 176 and 180A are both two unit seminar courses. If either, or both, of these courses are taken for the minor, additional courses \(up to a total of six\) will be needed to reach the minimum 19 units for this category.
+Please note that EE Biol 176 and 180A are both two unit seminar courses. If either, or both, of these courses are taken for the minor, additional courses (up to a total of six) will be needed to reach the minimum 19 units for this category.
 
-## Field or Marine Biology Quarter {#field-or-marine-biology-quarter}
+## [Field or Marine Biology Quarter](#field-or-marine-biology-quarter)
 
-Students who are declared as a Conservation Biology are encouraged to participate in either the Field Biology Quarter \(FBQ\) or the Marine Biology Quarter \(MBQ\).
+Students who are declared as a Conservation Biology are encouraged to participate in either the Field Biology Quarter (FBQ) or the Marine Biology Quarter (MBQ).
 
 [https://www.eeb.ucla.edu/ugrad\_fbq.php](https://www.eeb.ucla.edu/ugrad_fbq.php)
 
-The Field Biology Quarter \(FBQ\) is a quarter-long program designed to give advanced undergraduates an opportunity to focus on the biology of organisms living in their natural environments. Emphasis is always given to integrating field and laboratory studies of the local organisms in the chosen area. The program, which consists of 16 upper division units of coursework, fulfills the field quarter requirement for Ecology Behavior and Evolution \(EBE\) majors. Previous sites include:
+The Field Biology Quarter (FBQ) is a quarter-long program designed to give advanced undergraduates an opportunity to focus on the biology of organisms living in their natural environments. Emphasis is always given to integrating field and laboratory studies of the local organisms in the chosen area. The program, which consists of 16 upper division units of coursework, fulfills the field quarter requirement for Ecology Behavior and Evolution (EBE) majors. Previous sites include:
 
 * AUSTRALIA
 * CALIFORNIA DESERT
@@ -85,7 +85,7 @@ The Field Biology Quarter \(FBQ\) is a quarter-long program designed to give adv
 * NICARAGUA
 * THAILAND
 
-The Marine Biology Quarter \(MBQ\) is a field program designed to give advanced undergraduates an opportunity to gain intimate and first hand knowledge of marine communities, their constituents and their structure. Previous sites include
+The Marine Biology Quarter (MBQ) is a field program designed to give advanced undergraduates an opportunity to gain intimate and first hand knowledge of marine communities, their constituents and their structure. Previous sites include
 
 * HAWAII
 * CATALINA ISLAND
@@ -94,7 +94,7 @@ The Marine Biology Quarter \(MBQ\) is a field program designed to give advanced 
 
 Application period ranges from two quarters to a full year in advance. Subscribe to the EEB mailing list for information on each application period.
 
-## Course Descriptions {#course-descriptions-0}
+## [Course Descriptions](#course-descriptions-0)
 
 **Ecology & Evolutionary Biology**
 
@@ -104,7 +104,7 @@ Lecture, three hours; discussion, one hour. Requisite: Life Sciences 1 or 7B. No
 
 100L. Introduction to Ecology and Behavior Laboratory. Units: 4
 
-Laboratory, four hours. Requisites: course 100 \(may be taken concurrently\), Life Sciences 1 or 7B. Introduction to research methods in ecology and behavior, resulting in independent research proposals and to gain understanding of scientific method, critical evaluation of research papers, and development of scientific writing skills. Involves work outside and off-campus meetings. To apply this course to the Biology upper division major laboratory requirement, the corresponding lecture course must be completed with a passing grade. Letter grading.
+Laboratory, four hours. Requisites: course 100 (may be taken concurrently), Life Sciences 1 or 7B. Introduction to research methods in ecology and behavior, resulting in independent research proposals and to gain understanding of scientific method, critical evaluation of research papers, and development of scientific writing skills. Involves work outside and off-campus meetings. To apply this course to the Biology upper division major laboratory requirement, the corresponding lecture course must be completed with a passing grade. Letter grading.
 
 103. Plant Diversity and Evolution. Units: 5
 
@@ -120,7 +120,7 @@ Lecture, three hours; discussion, one hour. Requisite: Life Sciences 1 or 7B. St
 
 109L. Introduction to Marine Science Laboratory. Units: 4
 
-Laboratory, three hours; four field trips. Requisites: course 109 \(may be taken concurrently\), Life Sciences 1 or 7B. Introduction to marine environments and methods used to study them. Exploration of variety of concepts in marine science, ranging from oceanography to behavior, primary productivity, and marine biodiversity, with emphasis on experimental design and scientific writing. To apply this course to the Biology upper division major laboratory requirement, the corresponding lecture course must be completed with a passing grade. Letter grading.
+Laboratory, three hours; four field trips. Requisites: course 109 (may be taken concurrently), Life Sciences 1 or 7B. Introduction to marine environments and methods used to study them. Exploration of variety of concepts in marine science, ranging from oceanography to behavior, primary productivity, and marine biodiversity, with emphasis on experimental design and scientific writing. To apply this course to the Biology upper division major laboratory requirement, the corresponding lecture course must be completed with a passing grade. Letter grading.
 
 111. Biology of Vertebrates. Units: 5
 
@@ -176,7 +176,7 @@ Lecture, three hours; discussion, two hours. Requisites: course 100, Life Scienc
 
 M131. Ecosystem Ecology. Units: 4
 
-\(Same as Geography M117.\) Lecture, three hours; field trips. Requisite: Geography 1 or Life Sciences 2 or 7C. Designed for juniors/seniors. Development of principles of ecosystem ecology, with focus on understanding links between ecosystem structure and function. Emphasis on energy and water balances, nutrient cycling, plant-soil-microbe interactions, landscape heterogeneity, and human disturbance to ecosystems. P/NP or letter grading.
+(Same as Geography M117.) Lecture, three hours; field trips. Requisite: Geography 1 or Life Sciences 2 or 7C. Designed for juniors/seniors. Development of principles of ecosystem ecology, with focus on understanding links between ecosystem structure and function. Emphasis on energy and water balances, nutrient cycling, plant-soil-microbe interactions, landscape heterogeneity, and human disturbance to ecosystems. P/NP or letter grading.
 
 142. Aquatic Communities. Units: 4
 
@@ -188,7 +188,7 @@ Lecture, one hour; discussion, two hours. Requisite: Life Sciences 1. Broad intr
 
 153. Physics and Chemistry of Biotic Environments. Units: 4
 
-Lecture, three hours; discussion, one hour. Requisites: Chemistry 14A, 14B, and 14BL \(or 20A, 20B, and 20L\), Life Sciences 1. Recommended: Life Sciences 2, 3, 4, 23L, Physics 6A. Chemical and physical principles that are critical to functional responses by organisms to their habitats. Focus is integrative, providing comprehensive training in basic sciences of physics and chemistry as applied to environmental processes, and consequences of these processes for individual performance, populations, and communities. Covers variety of topics in applied chemistry, including proton pumps, carbonate biogeochemistry and ocean acidification, and allometric scaling of metabolism and effects of temperature on physiological function. Fundamentals of boundary-layer physics and their role in organism's life history. Physics as natural life process, including how organisms are mechanically structures to avoid, resist, or comply to fluid \(air and water\) motion. P/NP or letter grading.
+Lecture, three hours; discussion, one hour. Requisites: Chemistry 14A, 14B, and 14BL (or 20A, 20B, and 20L), Life Sciences 1. Recommended: Life Sciences 2, 3, 4, 23L, Physics 6A. Chemical and physical principles that are critical to functional responses by organisms to their habitats. Focus is integrative, providing comprehensive training in basic sciences of physics and chemistry as applied to environmental processes, and consequences of these processes for individual performance, populations, and communities. Covers variety of topics in applied chemistry, including proton pumps, carbonate biogeochemistry and ocean acidification, and allometric scaling of metabolism and effects of temperature on physiological function. Fundamentals of boundary-layer physics and their role in organism's life history. Physics as natural life process, including how organisms are mechanically structures to avoid, resist, or comply to fluid (air and water) motion. P/NP or letter grading.
 
 154. California Ecosystems. Units: 5
 

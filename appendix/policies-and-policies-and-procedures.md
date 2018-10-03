@@ -4,7 +4,7 @@ Below you will find the College Academic Counseling website, which has informati
 
 [http://cac.ucla.edu/](http://cac.ucla.edu/)
 
-## Informational Guides {#informational-guides}
+## [Informational Guides](#informational-guides)
 
 Calculating GPA
 
@@ -20,7 +20,7 @@ Grade Point Balance
 
 [Graduate in Absentia](http://cac.ucla.edu/wp-content/uploads/2016/02/GraduationInAbsentia.pdf)
 
-[Guide to Graduation \(2017\)](http://economics.ucla.edu/wp-content/uploads/2016/09/Guide-to-Graduation-2017_updated.pdf)
+[Guide to Graduation (2017)](http://economics.ucla.edu/wp-content/uploads/2016/09/Guide-to-Graduation-2017_updated.pdf)
 
 Incomplete Policy
 

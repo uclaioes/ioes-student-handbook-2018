@@ -1,6 +1,6 @@
 # Other UCLA Student Services Links
 
-[**MyUCLA Student Services Directory**](https://my.ucla.edu/studentservices.aspx):
+## [MyUCLA Student Services Directory](https://my.ucla.edu/studentservices.aspx):
 
 1. [ADA/504 Compliance Office](http://www.ada.ucla.edu/)
 2. [Arthur Ashe Student Health & Wellness Center](http://www.studenthealth.ucla.edu/)

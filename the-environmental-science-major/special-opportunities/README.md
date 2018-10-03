@@ -1,4 +1,4 @@
 # Special Opportunities
 
-![UCLA IoES](../../.gitbook/assets/special-ops.jpg)
+![UCLA IoES](../../assets/special-ops.jpg)
 
