@@ -12,7 +12,7 @@ UCLA summer session fees are charged on a per-unit fee basis. The unit maximum f
 
 Financial aid is also available in summer; there is a unit minimum (6) and applications start in February, so don’t wait to apply for aid.
 
-[https://www.summer.ucla.edu/](https://www.summer.ucla.edu/)
+- [https://www.summer.ucla.edu/](https://www.summer.ucla.edu/)
 
 ## [Summer at a Community College](#summer-at-a-community-college)
 

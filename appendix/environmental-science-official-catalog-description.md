@@ -1,12 +1,12 @@
 # Environmental Science Official Catalog Description
 
-**Undergraduate Study**
+## Undergraduate Study
 
 The Environmental Science major is a designated capstone major. In collaboration with a local agency or nonprofit institution, students work individually and in groups to complete projects that require them to integrate many of the skills, principles, theories, and concepts they have learned throughout the curriculum and apply them to real systems. Students are expected to contribute meaningfully to the analysis and solution of particular environmental science issues involving multiple disciplines and stakeholders with different perspectives. Those completing the major should possess critical thinking skills, problem-solving abilities, and familiarity with essential computational, data collection, and analysis skills, as well as demonstrate effective oral and written communication skills. Graduates should also be able to identify key ethical issues and analyze the consequences of various professional dilemmas, as well as work productively as part of a team.
 
-**Environmental Science BS**
+## Environmental Science BS
 
-**Capstone Major**
+### Capstone Major
 
 The Environmental Science BS program represents strong collaboration between the Institute of the Environment and Sustainability and the Departments of Atmospheric and Oceanic Sciences; Civil and Environmental Engineering; Earth, Planetary, and Space Sciences; Ecology and Evolutionary Biology; Environmental Health Sciences; and Geography. The program is designed for students who are deeply interested in the study of environmental science. There are two components to the program, and both must be completed to receive the degree. The first component, the Environmental Science major, requires completion of lower-division requirements grounded in basic natural sciences, a six-course upper-division environmental science requirement reflecting the disciplinary breadth of environmental science, two social sciences/humanities courses, participation in an ongoing environmental science colloquium, and completion of an environmental science practicum. The second component is a minor or concentration in one of seven environmental science areas, each associated with a particular department. With assistance from IoES staff, students must formally apply to and be accepted by the associated department to receive the minor.
 
@@ -28,7 +28,7 @@ For the geography/environmental studies minor, two courses from Chemistry and Bi
 
 Each course applied toward requirements for preparation for the major must be passed with a grade of C- or better. Students receiving a grade below C- in two courses, either in separate courses or repetitions of the same course, are subject to dismissal from the major.
 
-### [Transfer Students](#transfer-students)
+## [Transfer Students](#transfer-students)
 
 Transfer applicants to the Environmental Science major with 90 or more units must complete as many of the following introductory courses as possible prior to admission to UCLA: two general chemistry courses with laboratory for majors, two general biology courses with laboratory for majors, two calculus courses, and two calculus-based physics courses.
 
@@ -42,7 +42,7 @@ The major consists of four requirements: environmental science, social sciences/
 
 Required: One course from each of the following six core environmental science areas. No more than two courses may be from any one department. (1) One atmospheric and water science course from Atmospheric and Oceanic Sciences 101, 103, M105, 130, Earth, Planetary, and Space Sciences 153, or Geography 105; (2) one climate science course from Atmospheric and Oceanic Sciences 102, 112, Geography 102, 104, M106, or M131; (3) one Earth science course from Earth, Planetary, and Space Sciences 101, C113, 119, 139, 150, Environment M127, Geography 100, 101, or M107; (4) one ecology and conservation biology course from Ecology and Evolutionary Biology 100, 109, 116, 151A, 154, Environment 121, Geography 111, or 113; (5) one environmental management course from Environment M134, M135, 157, 159, 160, 162, 163, 166, or Public Policy C115; (6) one pollutant sources, treatment, fate, and transport course from Atmospheric and Oceanic Sciences 104, Chemical Engineering C118, Civil and Environmental Engineering 153, 154, M166, Environmental Health Sciences 100, C125, C152D, or C164.
 
-**Social Sciences/Humanities Requirements**
+### Social Sciences/Humanities Requirements
 
 Required: (1) One humans and environment course from Environment M132, M133, M137, 150, M153, Geography M128, 135, M137, 150, M153, 156, or Philosophy 125; (2) one policy and politics course from Environment M155, 157, M161, M164, 166, or M167.
 

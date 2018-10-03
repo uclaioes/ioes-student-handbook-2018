@@ -8,7 +8,7 @@ A multitude of research possibilities are open to you as undergraduates, but to 
 
 There are two Undergraduate Research Centers, one for the Sciences and one for Humanities/Social Sciences:
 
-[http://www.ugresearchsci.ucla.edu/](http://www.ugresearchsci.ucla.edu/)
+[http://www.ugresearchsci.ucla.edu](http://www.ugresearchsci.ucla.edu/)
 
 [http://www.ugeducation.ucla.edu/urhass/default.htm](http://www.ugeducation.ucla.edu/urhass/default.htm)
 
@@ -20,7 +20,7 @@ There is also a unique opportunity to get involved in faculty-driven sustainabil
 
 [https://grandchallenges.ucla.edu/sustainable-la/](https://grandchallenges.ucla.edu/sustainable-la/)
 
-Apply here:[https://grandchallenges.ucla.edu/sustainable-la/sla-gc-ursp-2017/](https://grandchallenges.ucla.edu/sustainable-la/sla-gc-ursp-2017/)
+Apply here: [https://grandchallenges.ucla.edu/sustainable-la/sla-gc-ursp-2017/](https://grandchallenges.ucla.edu/sustainable-la/sla-gc-ursp-2017/)
 
 ## [IoES Faculty Research](#ioes-faculty-research)
 
@@ -36,7 +36,7 @@ Not sure where to start? Take a look at the [IoES research centers](https://www.
 
 For a more student-centered research opportunity, the Sustainability Action Research (SAR) program might be a great fit. SAR is a student-initiated, student-designed, and student-facilitated research program offered through IoES. In the winter and spring quarters of each academic year, students on SAR teams are partnered with a campus stakeholder to research, rethink, investigate, and tackle UCLA’s greatest sustainability issues. Applications are due in the fall.
 
-[https://www.ioes.ucla.edu/sar/](https://www.ioes.ucla.edu/sar/)
+[https://www.ioes.ucla.edu/sar](https://www.ioes.ucla.edu/sar/)
 
 ## [99/199 Research Units](#99-199-research-units)
 

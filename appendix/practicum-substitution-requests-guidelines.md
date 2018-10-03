@@ -1,6 +1,6 @@
 # Practicum substitution requests guidelines
 
-**Students wishing to pursue an independent research project in lieu of participating on a Practicum team should contact the IoES Practicum Director, Noah Garrison at **[ngarrison@ioes.ucla.edu](mailto:ngarrison@ioes.ucla.edu)
+**Students wishing to pursue an independent research project in lieu of participating on a Practicum team should contact the IoES Practicum Director, Noah Garrison at** [ngarrison@ioes.ucla.edu](mailto:ngarrison@ioes.ucla.edu)
 
 1. Students wishing to pursue an independent project for the practicum must enroll in Environment 180A in fall quarter of the academic year in which you will graduate. There is no substitute available for 180A. This is a stand-alone course that provides a variety of important skills that are not provided elsewhere.
 2. You must be in good academic standing, and have a minimum GPA of 3.0 or better in the major.
