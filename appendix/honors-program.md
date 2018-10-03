@@ -85,15 +85,15 @@ Questions: Email Royce Dieckmann, IoES SAO at rdieckmann@ioes.ucla.edu
 
 Complete this application and submit it to the Environmental Science Honors Committee by emailing to rdieckmann@ioes.ucla.edu.
 
-**Name**: ___
+**Name**: _____
 
-**SID# ___**
+**SID#** _____
 
-**Date ___**
+**Date** _____
 
-**Minor/Concentration**: **___**
+**Minor/Concentration**: _____
 
-As of **___**(date), I have completed **___**(number of units) of university-level course work. My cumulative GPA in this course work is **___**(GPA).
+As of **_____**(date), I have completed **_____**(number of units) of university-level course work. My cumulative GPA in this course work is **_____**(GPA).
 
 My cumulative GPA in courses required for the Major (but excluding those courses listed as preparation for the Major) is: **_____** (GPA)
 
