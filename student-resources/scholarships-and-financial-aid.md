@@ -4,7 +4,7 @@
 
 The IoES administers a grant and scholarship for undergraduate students to support their work at the IoES.
 
-The Glickfeld Excellence in Environmental Research Grant
+[The Glickfeld Excellence in Environmental Research Grant](../research-opportunities/glickfeld-research-grant.md)
 
 A $4,000 annual grant is awarded to one Environmental Science student each year. The funds will be used to pay the salary of a student working as a research assistant under supervision of a faculty member at UCLA.
 
@@ -12,10 +12,10 @@ The Greenspan Family Scholarship
 
 In 2018-19, we are pleased to offer once again a $2,000 Greenspan Family Scholarship exclusive for IoES Environmental Science majors.
 
-Please see the IoES website for deadlines and applications.
-https://www.ioes.ucla.edu/envisci/scholarships/
+[Please visit the IoES website for deadlines and applications](https://www.ioes.ucla.edu/envisci/scholarships/).
 
-## UCLA Financial Aid {#ucla-financial-aid}
+
+## [UCLA Financial Aid](#ucla-financial-aid)
 
 UCLA offers a variety of financial aid options to students, including grants, fee waivers, scholarships, work-study, subsidized and unsubsidized loans. More information on [UCLA financial aid can be found here](http://www.financialaid.ucla.edu/).
 
@@ -23,7 +23,7 @@ Eligibility for most forms of financial aid requires the filing of a Free Applic
 
 There are thousands of scholarships available to students. The sheer number of scholarships and eligibility requirements can be overwhelming. Luckily, UCLA has an office dedicated to helping students find scholarships – [the Scholarship Resource Center](http://www.scholarshipcenter.ucla.edu/).
 
-## UCLA Scholarship Resource Center {#ucla-scholarship-resource-center}
+## [UCLA Scholarship Resource Center](#ucla-scholarship-resource-center)
 
 The Scholarship Resource Center (SRC) was established at UCLA in 1996 to provide scholarship information, resources, and support services to all UCLA students, regardless of financial eligibility. It offers free resources to help you find scholarships:
 
@@ -44,7 +44,7 @@ It offers free resources to help students apply for scholarships:
 
 223 Covel Commons  
 (310) 206-2875  
-[http://www.ugeducation.ucla.edu/src/](http://www.ugeducation.ucla.edu/src/)
+[http://www.ugeducation.ucla.edu/src](http://www.ugeducation.ucla.edu/src/)
 
 SRC hours are 11:00 a.m. to 6:00 p.m. during the academic year and 12:00 p.m. to 5:00 p.m. during the summer.
 
